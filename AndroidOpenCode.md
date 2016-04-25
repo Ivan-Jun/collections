@@ -42,6 +42,9 @@ An Android project providing easy navigation between a calendar and an agenda. T
 ![](https://raw.githubusercontent.com/Tibolte/AgendaCalendarView/master/demo.gif) 
 6、IconEditText    [项目地址](https://github.com/KyleBanks/IconEditText) <br>
 ![](https://camo.githubusercontent.com/5542f58de2d09a04a9423ec9e5cc42d5ae9f2560/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b796c657762616e6b732f49636f6e45646974546578742f6578616d706c652e706e67) 
+7、AutoLabelUI   [项目地址](https://github.com/DavidPizarro/AutoLabelUI) <br>
+Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line.<br>
+![](https://github.com/DavidPizarro/AutoLabelUI/raw/master/art/demo.gif) 
 #####三、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
