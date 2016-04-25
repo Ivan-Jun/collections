@@ -74,6 +74,8 @@ LiteCommon是一系列通用类、辅助类、工具类的集合<br>
 5、ViewAnimator     [项目地址](https://github.com/florent37/ViewAnimator) <br>
 A fluent Android animation library !<br>
  ![](https://camo.githubusercontent.com/0c031aa501e2d450ca7c9ea52a0a58d65c18371b/68747470733a2f2f6a2e676966732e636f6d2f45526c427a572e676966) 
+6、android-utils     [项目地址](https://github.com/jingle1267/android-utils) <br>
+囊括了一大部分Android应用开发过程当中常用的工具类。工具类来源整理自网络和自己编写。<br>
 #####八、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
