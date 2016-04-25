@@ -78,6 +78,11 @@ A very simple arc layout library for Android<br>
 5、progress-activity   [项目地址](https://github.com/vlonjatg/progress-activity) <br>
 If you are tired of constantly having to set up progress bars, empty views and error views, than this library is for you.<br>
 ![](https://camo.githubusercontent.com/b12972bc5c0da744b0ee6c5db0aad4c18cc872ab/687474703a2f2f692e696d6775722e636f6d2f6f4573764b44632e706e67) <br>
+6、TagCloudView   [项目地址](https://github.com/kingideayou/TagCloudView) <br>
+支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表<br>
+标签云效果，可以设置为 SingleLine 模式，丰富的自定义样式选择。<br>
+只需要一行代码即可设置 SingleLine 模式：app:tcvSingleLine="true" true 为 SingleLine 模式，false 为默认标签云模式<br>
+![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif) <br>
 #####四、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
