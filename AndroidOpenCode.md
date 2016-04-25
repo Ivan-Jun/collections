@@ -52,6 +52,8 @@ JustWeTools - Some useful tools<br>
 2、AndroidProcess     [项目地址](https://github.com/wenmingvs/AndroidProcess) <br>
 提供6种方法来判断App处于前台还是后台，并且封装成工具类供大家使用<br>
 ![](https://camo.githubusercontent.com/0140969fe12c6549631bce54567e076b55c30191/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36393163633135316777316630756c6f6a6b396f6867323062633068306232662e676966)  
+3、GHDownload     [项目地址](https://github.com/guanchao/GHDownload) <br>
+android下载框架，支持单线程和多线程断点下载。
 #####八、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
