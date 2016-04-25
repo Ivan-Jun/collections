@@ -12,6 +12,9 @@ An Adapter that allows a RecyclerView to be split into Sections with headers and
 3、LondonEyeLayoutManager     [项目地址](https://github.com/danylovolokh/LondonEyeLayoutManager) <br>
 A LayoutManager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br>
   ![](https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif)
+4、XRecyclerView     [项目地址](https://github.com/jianghejie/XRecyclerView) <br>
+a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView. you don't need to implement a special adapter .<br>
+  ![](https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif)
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
