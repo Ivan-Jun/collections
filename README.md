@@ -13,10 +13,10 @@ Open source code collection<br>
 #####三、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
-ZXing生成可自定义颜色、带logo的二维码
-ZXing扫描二维码
-ZXing识别图库中的二维码图片
-可以控制闪光灯，方便夜间使用
-可以定制各式各样的扫描框
+ZXing生成可自定义颜色、带logo的二维码<br>
+ZXing扫描二维码<br>
+ZXing识别图库中的二维码图片<br>
+可以控制闪光灯，方便夜间使用<br>
+可以定制各式各样的扫描框<br>
 ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」
  ![](https://github.com/Ivan-Jun/collections/blob/master/images/BGAQRCode-Android.gif)  
