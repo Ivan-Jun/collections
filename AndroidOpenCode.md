@@ -75,6 +75,9 @@ Android流式布局，支持单选、多选等，适合用于产品标签等。<
 4、ArcLayout    [项目地址](https://github.com/ogaclejapan/ArcLayout) <br>
 A very simple arc layout library for Android<br>
 ![](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif) <br>
+5、progress-activity   [项目地址](https://github.com/vlonjatg/progress-activity) <br>
+If you are tired of constantly having to set up progress bars, empty views and error views, than this library is for you.<br>
+![](https://camo.githubusercontent.com/b12972bc5c0da744b0ee6c5db0aad4c18cc872ab/687474703a2f2f692e696d6775722e636f6d2f6f4573764b44632e706e67) <br>
 #####四、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
