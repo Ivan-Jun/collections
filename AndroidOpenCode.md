@@ -120,6 +120,9 @@ ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请�
 3、StickerCamera     [项目地址](https://github.com/Skykai521/StickerCamera) <br>
 This is an Android application with camera,picture cropping,collage sticking and tagging.贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签。<br>
  ![](https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_01.gif)   <br>
+ 4、MusicPlayerView     [项目地址](https://github.com/iammert/MusicPlayerView) <br>
+Android custom view and progress for music player<br>
+ ![](https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif)   <br>
  #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
 JustWeTools - Some useful tools<br>
