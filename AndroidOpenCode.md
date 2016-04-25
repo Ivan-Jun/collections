@@ -53,9 +53,9 @@ JustWeTools - Some useful tools<br>
 提供6种方法来判断App处于前台还是后台，并且封装成工具类供大家使用<br>
 ![](https://camo.githubusercontent.com/0140969fe12c6549631bce54567e076b55c30191/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36393163633135316777316630756c6f6a6b396f6867323062633068306232662e676966)  
 3、GHDownload     [项目地址](https://github.com/guanchao/GHDownload) <br>
-android下载框架，支持单线程和多线程断点下载。
+android下载框架，支持单线程和多线程断点下载。<br>
 4、android-common     [项目地址](https://github.com/litesuits/android-common) <br>
-iteCommon是一系列通用类、辅助类、工具类的集合<br>
+LiteCommon是一系列通用类、辅助类、工具类的集合<br>
 其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
 #####八、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
