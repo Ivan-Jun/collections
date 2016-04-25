@@ -59,6 +59,9 @@ Android library to place labels next to another. If there is not enough space fo
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
   ![](https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif)   <br>
+2、CustomMenu     [项目地址](https://github.com/flyfei/CustomMenu) <br>
+CustomMenu是一个自定义的控件，可以帮助你快速创建Menu<br>
+  ![](https://github.com/flyfei/CustomMenu/raw/master/resources/only_left_menu.gif)   <br>
 #####四、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
