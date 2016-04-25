@@ -141,6 +141,8 @@ Library for picking pictures from gallery or camera<br>
 Checks your device whether it is rooted or not. <br>
 10、MultipleTheme   [项目地址](https://github.com/dersoncheng/MultipleTheme) <br>
 Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.<br>
+11、LogUtils    [项目地址](https://github.com/pengwei1024/LogUtils) <br>
+More convenient and easy to use android Log manager <br>
 #####十三、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
