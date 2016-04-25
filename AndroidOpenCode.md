@@ -53,7 +53,11 @@ An Android project providing easy navigation between a calendar and an agenda. T
   ![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif)  
 2、AndroidAutoLayout     [项目地址](https://github.com/hongyangAndroid/AndroidAutoLayout) <br>
 Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 <br>
-  ![](https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png)  
+  ![](https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png)
+#####四、时间相关控件
+1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
+Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
+  ![](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif)
 #####五、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
