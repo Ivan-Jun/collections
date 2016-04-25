@@ -149,6 +149,9 @@ Checks your device whether it is rooted or not. <br>
 Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.<br>
 11、LogUtils    [项目地址](https://github.com/pengwei1024/LogUtils) <br>
 More convenient and easy to use android Log manager <br>
+12、android-upload-service   [项目地址](https://github.com/gotev/android-upload-service) <br>
+Easily upload files in the background with automatic Android Notification Center progress indication.<br>
+ ![](https://camo.githubusercontent.com/e14db5df226715b7a9b1af7027d76c886aa44e9d/687474703a2f2f676f7465762e6769746875622e696f2f616e64726f69642d75706c6f61642d736572766963652f75706c6f61642e676966)   <br>
 #####十三、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
