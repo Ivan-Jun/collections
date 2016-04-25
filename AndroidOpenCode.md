@@ -97,6 +97,8 @@ Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
 A fake VuMeter - Equalizer for android
 ![](https://github.com/HugoGresse/AndroidVuMeter/raw/master/demo.gif) <br>
 #####九、Label
+1、BubbleTextView     [项目地址](https://github.com/dupengtao/BubbleTextView) <br>
+![](https://camo.githubusercontent.com/8ea901a45cb7263cb14f3fb28487e498d9403834/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f76696577332e706e67) <br>
 #####十、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
