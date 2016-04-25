@@ -45,6 +45,10 @@ An Android project providing easy navigation between a calendar and an agenda. T
 7、AutoLabelUI   [项目地址](https://github.com/DavidPizarro/AutoLabelUI) <br>
 Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line.<br>
 ![](https://github.com/DavidPizarro/AutoLabelUI/raw/master/art/demo.gif) 
+#####三、Dialog
+1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
+一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
+![](https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif) 
 #####三、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
