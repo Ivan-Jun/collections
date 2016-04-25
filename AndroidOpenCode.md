@@ -8,7 +8,10 @@ Open source code collection<br>
   ![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif)  
 2、SectionedRecyclerViewAdapter     [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) <br>
 An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.<br>
-  ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png)  
+  ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png)
+3、LondonEyeLayoutManager     [项目地址](https://github.com/danylovolokh/LondonEyeLayoutManager) <br>
+A LayoutManager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br>
+  ![](https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif)
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
