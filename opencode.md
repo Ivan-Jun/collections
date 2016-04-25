@@ -9,11 +9,14 @@ Open source code collection<br>
 2、SectionedRecyclerViewAdapter     [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) <br>
 An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.<br>
   ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png)  
-#####二、布局
+#####二、ViewPager
+1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
+  ![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif)  
+#####三、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
   ![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif)  
-#####三、第三方插件
+#####四、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
 ZXing生成可自定义颜色、带logo的二维码<br>
