@@ -56,7 +56,10 @@ JustWeTools - Some useful tools<br>
 android下载框架，支持单线程和多线程断点下载。<br>
 4、android-common     [项目地址](https://github.com/litesuits/android-common) <br>
 LiteCommon是一系列通用类、辅助类、工具类的集合<br>
-其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
+其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。<br>
+5、ViewAnimator     [项目地址](https://github.com/florent37/ViewAnimator) <br>
+A fluent Android animation library !<br>
+ ![](https://camo.githubusercontent.com/0c031aa501e2d450ca7c9ea52a0a58d65c18371b/68747470733a2f2f6a2e676966732e636f6d2f45526c427a572e676966) 
 #####八、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
