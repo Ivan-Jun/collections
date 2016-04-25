@@ -18,5 +18,5 @@ ZXing扫描二维码<br>
 ZXing识别图库中的二维码图片<br>
 可以控制闪光灯，方便夜间使用<br>
 可以定制各式各样的扫描框<br>
-ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」
+ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」<br>
  ![](https://github.com/Ivan-Jun/collections/blob/master/images/BGAQRCode-Android.gif)  
