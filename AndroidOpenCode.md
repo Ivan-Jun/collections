@@ -57,6 +57,9 @@ An Android project providing easy navigation between a calendar and an agenda. T
 2、AndroidAutoLayout     [项目地址](https://github.com/hongyangAndroid/AndroidAutoLayout) <br>
 Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 <br>
   ![](https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png)
+3、FlowLayout     [项目地址](https://github.com/hongyangAndroid/FlowLayout) <br>
+Android流式布局，支持单选、多选等，适合用于产品标签等。<br>
+![](https://github.com/hongyangAndroid/FlowLayout/raw/master/flowlayout_03.gif)
 #####四、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
