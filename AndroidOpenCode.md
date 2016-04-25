@@ -17,6 +17,9 @@ The ShowcaseView (SCV) library is designed to highlight and showcase specific pa
 2、TagViewLayout     [项目地址](https://github.com/jjhesk/TagViewLayout) <br>
 An Android TagView library. You can customize awesome TagView by using this library.<br>
   ![](https://github.com/jjhesk/TagViewLayout/blob/master/baconLMY48Yhesk02012016174101.gif)  
+3、MathView     [项目地址](https://github.com/kexanie/MathView) <br>
+MathView is a third-party view library, which might help you display math formula on Android apps easier. Two rendering engines available: MathJax and KaTeX. Support Android version 4.1 (Jelly Bean) and newer.<br>
+  ![](https://github.com/kexanie/MathView/raw/master/screenshot/screenshot.png)  
 #####三、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
