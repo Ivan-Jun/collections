@@ -1,6 +1,6 @@
 # collections
 Open source code collection<br>
-##优秀开源项目整理
+##IOS优秀开源项目整理
 感谢这些作者开源分享
 ###View篇
 #####一、列表
@@ -28,4 +28,4 @@ ZXing识别图库中的二维码图片<br>
 ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」<br>
  ![](https://github.com/Ivan-Jun/collections/blob/master/images/BGAQRCode-Android.gif)  
 #####五、其他相关整理项目
-1、ShareAndroidResource     [项目地址]https://github.com/Lafree317/ShareAndroidResource) <br>
+1、ShareiOSResource     [项目地址](https://github.com/Lafree317/ShareiOSResource) <br>
