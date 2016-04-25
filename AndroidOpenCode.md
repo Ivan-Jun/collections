@@ -139,6 +139,8 @@ Library for picking pictures from gallery or camera<br>
 本文主要是讲述资源混淆组件的用法以及性能，资源混淆组件不涉及编译过程，只需输入一个apk(无论签名与否，debug版，release版均可，在处理过程中会直接将原签名删除)，可得到一个实现资源混淆后的apk(若在配置文件中输入签名信息，可自动重签名并对齐，得到可直接发布的apk)以及对应资源ID的mapping文件。同时可在配置文件中指定白名单，压缩文件(支持*，？通配符)，支持自动签名，保持旧mapping，7z重打包，对齐等功能。 本工具支持Linux、Window跨平台使用，但测试表示若使用7z压缩，Linux下的压缩率更高。<br>
 9、rootchecker    [项目地址](https://github.com/orhanobut/rootchecker) <br>
 Checks your device whether it is rooted or not. <br>
+10、MultipleTheme   [项目地址](https://github.com/dersoncheng/MultipleTheme) <br>
+Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.<br>
 #####十三、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
