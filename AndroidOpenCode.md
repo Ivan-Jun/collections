@@ -89,6 +89,10 @@ If you are tired of constantly having to set up progress bars, empty views and e
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
   ![](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif) <br>
+#####四、图表
+1、AndroidVuMeter     [项目地址](https://github.com/HugoGresse/AndroidVuMeter) <br>
+A fake VuMeter - Equalizer for android
+![](https://github.com/HugoGresse/AndroidVuMeter/raw/master/demo.gif) <br>
 #####五、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
