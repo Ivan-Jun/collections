@@ -42,5 +42,8 @@ ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请�
  #####七、工具
  1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
 JustWeTools - Some useful tools<br>
-#####八、其他相关整理项目
+#####八、游戏相关
+1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
+An easy open source Android Native Game FrameWork.<br>
+#####九、其他相关整理项目
 1、ShareAndroidResource     [项目地址](https://github.com/Lafree317/ShareAndroidResource) <br>
