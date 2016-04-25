@@ -6,6 +6,9 @@ Open source code collection<br>
 #####一、列表
 1、CarouselLayoutManager     [项目地址](https://github.com/Azoft/CarouselLayoutManager) <br>
   ![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif)  
+2、SectionedRecyclerViewAdapter     [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) <br>
+An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.<br>
+  ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png)  
 #####二、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
