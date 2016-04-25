@@ -23,6 +23,9 @@ HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加�
 6、CircleRefreshLayout       [项目地址](https://github.com/tuesda/CircleRefreshLayout) <br>
 a custom pull-to-refresh layout which contains a interesting animation<br>
   ![](https://github.com/tuesda/CircleRefreshLayout/raw/master/gif/circlerefresh.gif) <br>
+7、SuperSwipeRefreshLayout      [项目地址](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout) <br>
+A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多<br>
+  ![](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/raw/master/demo.gif) <br>
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
