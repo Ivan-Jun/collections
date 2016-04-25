@@ -52,7 +52,7 @@ Android library to place labels next to another. If there is not enough space fo
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
 ![](https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif)  <br>
-#####三、ViewPager
+#####四、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
   ![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif) <br>  
@@ -60,14 +60,14 @@ Android library to place labels next to another. If there is not enough space fo
   ![](https://github.com/taoliuh/CardSlidePanel/raw/branch/capture01.gif)   <br>
 3、SlidingCard     [项目地址](https://github.com/mxn21/SlidingCard) <br>
   ![](https://camo.githubusercontent.com/e685df75548288b356563aa4d6807e23caca5562/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f736c6964696e67636172642e676966)   <br>
-#####四、菜单
+#####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
   ![](https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif)   <br>
 2、CustomMenu     [项目地址](https://github.com/flyfei/CustomMenu) <br>
 CustomMenu是一个自定义的控件，可以帮助你快速创建Menu<br>
   ![](https://github.com/flyfei/CustomMenu/raw/master/resources/only_left_menu.gif)   <br>
-#####四、布局
+#####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
   ![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif)   <br>
@@ -88,15 +88,16 @@ If you are tired of constantly having to set up progress bars, empty views and e
 标签云效果，可以设置为 SingleLine 模式，丰富的自定义样式选择。<br>
 只需要一行代码即可设置 SingleLine 模式：app:tcvSingleLine="true" true 为 SingleLine 模式，false 为默认标签云模式<br>
 ![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif) <br>
-#####四、时间相关控件
+#####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
   ![](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif) <br>
-#####四、图表
+#####八、图表
 1、AndroidVuMeter     [项目地址](https://github.com/HugoGresse/AndroidVuMeter) <br>
 A fake VuMeter - Equalizer for android
 ![](https://github.com/HugoGresse/AndroidVuMeter/raw/master/demo.gif) <br>
-#####五、第三方插件
+#####九、Label
+#####十、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
 ZXing生成可自定义颜色、带logo的二维码<br>
@@ -106,13 +107,13 @@ ZXing识别图库中的二维码图片<br>
 可以定制各式各样的扫描框<br>
 ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」<br>
  ![](https://github.com/Ivan-Jun/collections/blob/master/images/BGAQRCode-Android.gif) <br>  
-#####六、多媒体
+#####十一、多媒体
 1、jiecaovideoplayer     [项目地址](https://github.com/lipangit/jiecaovideoplayer) <br>
 真正实现Android的全屏功能，立志成为Android平台使用最广泛的视频播放控件<br>
  ![](https://github.com/lipangit/jiecaovideoplayer/raw/develop/screenshots/j3.jpg)   <br>
 2、sinavideo_playersdk    [项目地址](https://github.com/SinaVDDeveloper/sinavideo_playersdk) <br>
 大部分时候，在android中集成一个视频播放器是很痛苦的过程，因为google提供的多媒体控件实在距离UI太远（似乎这个框架根本没法用），我们也一样深受其害，所以，我们在自己研发解码器的时候，就顺手也处理了一下UI部分的逻辑。我们封装了大部分的播放器中的UI控件，比如playbutton之类的，把里面的大部分事件用EventBus模式进行了处理。这样，最终的结果是，大部分时候，集成一个播放器只需要三步就可以了。具体的可以参照demo中的例子，代码量确实很少，你懂的。<br>
- #####七、工具
+ #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
 JustWeTools - Some useful tools<br>
 2、AndroidProcess     [项目地址](https://github.com/wenmingvs/AndroidProcess) <br>
@@ -134,11 +135,11 @@ Library for picking pictures from gallery or camera<br>
 本文主要是讲述资源混淆组件的用法以及性能，资源混淆组件不涉及编译过程，只需输入一个apk(无论签名与否，debug版，release版均可，在处理过程中会直接将原签名删除)，可得到一个实现资源混淆后的apk(若在配置文件中输入签名信息，可自动重签名并对齐，得到可直接发布的apk)以及对应资源ID的mapping文件。同时可在配置文件中指定白名单，压缩文件(支持*，？通配符)，支持自动签名，保持旧mapping，7z重打包，对齐等功能。 本工具支持Linux、Window跨平台使用，但测试表示若使用7z压缩，Linux下的压缩率更高。<br>
 9、rootchecker    [项目地址](https://github.com/orhanobut/rootchecker) <br>
 Checks your device whether it is rooted or not. <br>
-#####八、游戏相关
+#####十三、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
-#####九、开发框架
+#####十四、开发框架
 1、 Android-Plugin-Framework     [项目地址](https://github.com/limpoxe/Android-Plugin-Framework) <br>
 此项目是Android插件开发框架完整源码及示例。用来通过动态加载的方式在宿主程序中运行插件APK<br>
-#####九、其他相关整理项目
+#####十五、其他相关整理项目
 1、ShareAndroidResource     [项目地址](https://github.com/Lafree317/ShareAndroidResource) <br>
