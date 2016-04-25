@@ -27,5 +27,9 @@ ZXing识别图库中的二维码图片<br>
 可以定制各式各样的扫描框<br>
 ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请使用ZXing」<br>
  ![](https://github.com/Ivan-Jun/collections/blob/master/images/BGAQRCode-Android.gif)  
-#####五、其他相关整理项目
+#####五、多媒体
+1、jiecaovideoplayer     [项目地址](https://github.com/lipangit/jiecaovideoplayer) <br>
+真正实现Android的全屏功能，立志成为Android平台使用最广泛的视频播放控件<br>
+ ![](https://github.com/lipangit/jiecaovideoplayer/raw/develop/screenshots/j3.jpg)  
+#####六、其他相关整理项目
 1、ShareAndroidResource     [项目地址](https://github.com/Lafree317/ShareAndroidResource) <br>
