@@ -55,6 +55,8 @@ Android library to place labels next to another. If there is not enough space fo
   ![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif) <br>  
 2、CardSlidePanel     [项目地址](https://github.com/taoliuh/CardSlidePanel) <br>
   ![](https://github.com/taoliuh/CardSlidePanel/raw/branch/capture01.gif)   <br>
+3、SlidingCard     [项目地址](https://github.com/mxn21/SlidingCard) <br>
+  ![](https://camo.githubusercontent.com/e685df75548288b356563aa4d6807e23caca5562/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f736c6964696e67636172642e676966)   <br>
 #####四、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
