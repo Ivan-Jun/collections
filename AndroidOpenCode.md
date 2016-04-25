@@ -11,6 +11,8 @@ An Adapter that allows a RecyclerView to be split into Sections with headers and
   ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png)  
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
+The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
+<br>
   ![](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png)  
 #####三、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
