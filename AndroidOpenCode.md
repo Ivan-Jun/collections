@@ -43,6 +43,9 @@ MathView is a third-party view library, which might help you display math formul
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
   ![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif)  
+2、AndroidAutoLayout     [项目地址](https://github.com/hongyangAndroid/AndroidAutoLayout) <br>
+Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 <br>
+  ![](https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png)  
 #####五、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
 主要功能：
