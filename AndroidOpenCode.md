@@ -40,8 +40,11 @@ ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请�
 真正实现Android的全屏功能，立志成为Android平台使用最广泛的视频播放控件<br>
  ![](https://github.com/lipangit/jiecaovideoplayer/raw/develop/screenshots/j3.jpg)  
  #####七、工具
- 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
+1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
 JustWeTools - Some useful tools<br>
+2、AndroidProcess     [项目地址](https://github.com/wenmingvs/AndroidProcess) <br>
+提供6种方法来判断App处于前台还是后台，并且封装成工具类供大家使用<br>
+![](https://camo.githubusercontent.com/0140969fe12c6549631bce54567e076b55c30191/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36393163633135316777316630756c6f6a6b396f6867323062633068306232662e676966)  
 #####八、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
