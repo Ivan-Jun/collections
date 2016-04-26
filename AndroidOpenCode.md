@@ -90,6 +90,18 @@ If you are tired of constantly having to set up progress bars, empty views and e
 标签云效果，可以设置为 SingleLine 模式，丰富的自定义样式选择。<br>
 只需要一行代码即可设置 SingleLine 模式：app:tcvSingleLine="true" true 为 SingleLine 模式，false 为默认标签云模式<br>
 ![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif) <br>
+7、android-percent-support-extend   [项目地址](https://github.com/hongyangAndroid/android-percent-support-extend) <br>
+目前支持：<br>
+不改变原有库的用法<br>
+添加了PercentLinearLayout<br>
+支持宽度高度百分比设置值<br>
+支持margin百分比设置值<br>
+支持padding百分比设置值<br>
+支持minWidth , maxWidth , minHeight , maxHeight百分比设置值<br>
+支持TextView、Button、EditText的textSize<br>
+支持ScrollView内部为Linearlayout<br>
+支持任何View的尺寸参照屏幕的宽或者高<br>
+![](https://github.com/hongyangAndroid/android-percent-support-extend/raw/master/sc_02.png) <br>
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
 Android 倒计时控件，使用Canvas绘制，支持多种样式<br>
