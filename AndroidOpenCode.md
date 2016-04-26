@@ -58,6 +58,9 @@ Create a custom ImageView for moving image around the screen.<br>
 ![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif)  <br>
 9、AndroidSegmentControl   [项目地址](https://github.com/liuhuibin/AndroidSegmentControl) <br>
 ![](https://github.com/liuhuibin/AndroidSegmentControl/raw/master/.raw/snapshot.jpg)  <br>
+10、ToggleButton   [项目地址](https://github.com/zcweng/ToggleButton) <br>
+ToggleButton Widget For Android Dev<br>
+![](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  <br>
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
