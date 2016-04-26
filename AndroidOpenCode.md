@@ -223,6 +223,9 @@ Simple tool which help you to implement activity and fragment transition for pre
 2、Material-Animations    [项目地址](https://github.com/lgvalle/Material-Animations) <br>
 Android Transition animations explanation with examples.<br>
  ![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif)  <br>
+3、EasyAndroidAnimations    [项目地址](https://github.com/2359media/EasyAndroidAnimations) <br>
+Easy Android Animations is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects in your application with one or two lines of code.<br>
+![](https://raw.githubusercontent.com/2359media/EasyAndroidAnimations/master/demo.png)  <br>
 #####十四、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
