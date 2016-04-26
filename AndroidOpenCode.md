@@ -181,3 +181,4 @@ An easy open source Android Native Game FrameWork.<br>
 此项目是Android插件开发框架完整源码及示例。用来通过动态加载的方式在宿主程序中运行插件APK<br>
 #####十五、其他相关整理项目
 1、ShareAndroidResource     [项目地址](https://github.com/Lafree317/ShareAndroidResource) <br>
+2、awesome-android     [项目地址](https://github.com/snowdream/awesome-android) <br>
