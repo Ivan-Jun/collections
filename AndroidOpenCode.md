@@ -207,6 +207,9 @@ Simple, pretty and powerful logger for android<br>
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
 Simple tool which help you to implement activity and fragment transition for pre-Lollipop devices.<br>
  ![](https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif)  <br>
+2、Material-Animations    [项目地址](https://github.com/lgvalle/Material-Animations) <br>
+Android Transition animations explanation with examples.<br>
+ ![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif)  <br>
 #####十四、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
