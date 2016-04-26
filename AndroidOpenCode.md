@@ -114,6 +114,7 @@ A fake VuMeter - Equalizer for android
 1、BubbleTextView     [项目地址](https://github.com/dupengtao/BubbleTextView) <br>
 ![](https://camo.githubusercontent.com/8ea901a45cb7263cb14f3fb28487e498d9403834/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f76696577332e706e67) <br>
 2、BGABadgeView-Android    [项目地址](https://github.com/bingoogolapple/BGABadgeView-Android) <br>
+Android徽章控件<br>
 ![](https://camo.githubusercontent.com/a83827c9e20d1900549e36b8bd5e4d26fa3693ac/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f62616467652f62616467652d763131312e676966) <br>
 #####十、第三方插件
 1、BGAQRCode-Android     [项目地址](https://github.com/bingoogolapple/BGAQRCode-Android) <br>
