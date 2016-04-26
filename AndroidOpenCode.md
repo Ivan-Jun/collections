@@ -28,7 +28,8 @@ a custom pull-to-refresh layout which contains a interesting animation<br>
   ![](https://github.com/tuesda/CircleRefreshLayout/raw/master/gif/circlerefresh.gif) <br>
 7、SuperSwipeRefreshLayout      [项目地址](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout) <br>
 A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多<br>
-  ![](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/raw/master/demo.gif) <br>
+<img src="https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/raw/master/demo.gif" alt="Drawing" width="320px" />
+<br>
 8、BGARefreshLayout-Android      [项目地址](https://github.com/bingoogolapple/BGARefreshLayout-Android) <br>
 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位<br>
   ![](https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966) <br>
