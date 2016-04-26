@@ -51,6 +51,9 @@ An Android project providing easy navigation between a calendar and an agenda. T
 7、AutoLabelUI   [项目地址](https://github.com/DavidPizarro/AutoLabelUI) <br>
 Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line.<br>
 ![](https://github.com/DavidPizarro/AutoLabelUI/raw/master/art/demo.gif)  <br>
+8、MovingImageView   [项目地址](https://github.com/AlbertGrobas/MovingImageView) <br>
+Create a custom ImageView for moving image around the screen.<br>
+![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif)  <br>
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
