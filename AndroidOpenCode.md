@@ -141,7 +141,10 @@ This is an Android application with camera,picture cropping,collage sticking and
  4、MusicPlayerView     [项目地址](https://github.com/iammert/MusicPlayerView) <br>
 Android custom view and progress for music player<br>
  ![](https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif)   <br>
- #####十二、工具
+5、Android-ScalableVideoView     [项目地址](https://github.com/yqritc/Android-ScalableVideoView) <br>
+Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more<br>
+ ![](https://github.com/yqritc/Android-ScalableVideoView/raw/master/sample/sample.gif)   <br>
+#####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
 JustWeTools - Some useful tools<br>
 2、AndroidProcess     [项目地址](https://github.com/wenmingvs/AndroidProcess) <br>
