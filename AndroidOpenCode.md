@@ -87,6 +87,8 @@ ToggleButton Widget For Android Dev<br>
 8、Android-StickyNavLayout   [项目地址](https://github.com/hongyangAndroid/Android-StickyNavLayout) <br>
 An android library for navigator that stick on the top <br>
 ![](https://github.com/hongyangAndroid/Android-StickyNavLayout/raw/master/sc.gif)   <br>
+9、freepager   [项目地址](https://github.com/alexzaitsev/freepager) <br>
+![](https://github.com/alexzaitsev/freepager/raw/master/04.gif)   <br>
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
