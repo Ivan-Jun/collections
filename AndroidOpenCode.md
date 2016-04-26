@@ -211,7 +211,8 @@ If you are tired of constantly having to set up progress bars, empty views and e
 支持TextView、Button、EditText的textSize<br>
 支持ScrollView内部为Linearlayout<br>
 支持任何View的尺寸参照屏幕的宽或者高<br>
-![](https://github.com/hongyangAndroid/android-percent-support-extend/raw/master/sc_02.png) <br>
+<img src="https://github.com/hongyangAndroid/android-percent-support-extend/raw/master/sc_02.png" alt="Drawing" width="320px" />
+<br>
 
 8、TourGuide   [项目地址](https://github.com/worker8/TourGuide) <br>
 TourGuide is an Android library. It lets you add pointer, overlay and tooltip easily, guiding users on how to use your app. Refer to the example below(this is a trivial example for demo purpose): <br>
