@@ -81,6 +81,9 @@ ToggleButton Widget For Android Dev<br>
   ![](https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966)   <br>
 6、SmartTabLayout     [项目地址](https://github.com/ogaclejapan/SmartTabLayout) <br>
   ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)   <br>
+7、Gallery    [项目地址](https://github.com/ogaclejapan/SmartTabLayout) <br>
+仿搜狐视频电影海报Gallery效果 <br>
+![](https://camo.githubusercontent.com/af69e0b7cd439f43997a3788c3b1ee4a007e4f71/687474703a2f2f6a636f64656372616565722e636f6d2f75706c6f6164732f32303135303431352f313432393036343138363233363637342e676966)   <br>
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
