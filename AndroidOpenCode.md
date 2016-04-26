@@ -16,7 +16,8 @@ A LayoutManager that must be used with RecyclerView. When list is scrolled views
   <br>
 4、XRecyclerView     [项目地址](https://github.com/jianghejie/XRecyclerView) <br>
 a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView. you don't need to implement a special adapter .<br>
-  ![](https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif) <br>
+<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" alt="Drawing" width="320px" />
+<br>
 5、HeaderAndFooterRecyclerView       [项目地址](https://github.com/cundong/HeaderAndFooterRecyclerView) <br>
 HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案。<br>
 它可以对 RecyclerView 控件进行拓展（通过RecyclerView.Adapter实现），给RecyclerView增加HeaderView、FooterView，并且不需要对你的具体业务逻辑Adapter做任何修改。<br>
