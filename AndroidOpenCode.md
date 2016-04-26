@@ -71,6 +71,9 @@ CustomMenu是一个自定义的控件，可以帮助你快速创建Menu<br>
   ![](https://github.com/flyfei/CustomMenu/raw/master/resources/only_left_menu.gif)   <br>
 3、GuillotineMenu-Android    [项目地址](https://github.com/Yalantis/GuillotineMenu-Android) <br>
   ![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966)   <br>
+4、Folder-ResideMenu       [项目地址](https://github.com/dkmeteor/Folder-ResideMenu) <br>
+  An extension of ResideMenu<br>
+  ![](https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif)   <br>
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
