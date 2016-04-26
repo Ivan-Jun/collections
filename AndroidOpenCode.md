@@ -89,6 +89,8 @@ An android library for navigator that stick on the top <br>
 ![](https://github.com/hongyangAndroid/Android-StickyNavLayout/raw/master/sc.gif)   <br>
 9、freepager   [项目地址](https://github.com/alexzaitsev/freepager) <br>
 ![](https://github.com/alexzaitsev/freepager/raw/master/04.gif)   <br>
+10、AndroidImageSlider   [项目地址](https://github.com/daimajia/AndroidImageSlider) <br>
+![](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   <br>
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
