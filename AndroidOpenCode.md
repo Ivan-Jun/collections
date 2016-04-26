@@ -8,7 +8,8 @@ Open source code collection<br>
   ![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif)   <br>
 2、SectionedRecyclerViewAdapter     [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) <br>
 An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.<br>
-  ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png =100x) <br>
+  ![](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png =200x) <br>
+  <img src="https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png" alt="Drawing" width="320px" />
 3、LondonEyeLayoutManager     [项目地址](https://github.com/danylovolokh/LondonEyeLayoutManager) <br>
 A LayoutManager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br>
   ![](https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif) <br>
