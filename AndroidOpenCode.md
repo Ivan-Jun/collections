@@ -228,6 +228,8 @@ Thin DownloadManager is an android library primary to download files and to avoi
 15、logger    [项目地址](https://github.com/orhanobut/logger) <br>
 Simple, pretty and powerful logger for android<br>
  ![](https://github.com/orhanobut/logger/raw/master/images/current-log.png)  <br>
+16、ASimpleCache    [项目地址](https://github.com/yangfuhai/ASimpleCache) <br>
+ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件（由十几个类精简而来）。<br>
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
 Simple tool which help you to implement activity and fragment transition for pre-Lollipop devices.<br>
