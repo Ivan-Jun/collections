@@ -97,6 +97,8 @@ An android library for navigator that stick on the top <br>
 ![](https://github.com/ongakuer/ViewPagerHeaderScrollDemo/raw/master/screenshot.gif)   <br>
 13、ViewPagerTransforms  [项目地址](https://github.com/ToxicBakery/ViewPagerTransforms) <br>
 ![](https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966)   <br>
+14、Android-ParallaxHeaderViewPager  [项目地址](https://github.com/kmshack/Android-ParallaxHeaderViewPager) <br>
+![](https://github.com/kmshack/Android-ParallaxHeaderViewPager/raw/master/screen.png)   <br>
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
