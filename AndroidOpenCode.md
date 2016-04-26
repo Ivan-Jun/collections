@@ -140,7 +140,8 @@ A very simple arc layout library for Android<br>
 ![](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif) <br>
 5、progress-activity   [项目地址](https://github.com/vlonjatg/progress-activity) <br>
 If you are tired of constantly having to set up progress bars, empty views and error views, than this library is for you.<br>
-![](https://camo.githubusercontent.com/b12972bc5c0da744b0ee6c5db0aad4c18cc872ab/687474703a2f2f692e696d6775722e636f6d2f6f4573764b44632e706e67) <br>
+<img src="https://camo.githubusercontent.com/b12972bc5c0da744b0ee6c5db0aad4c18cc872ab/687474703a2f2f692e696d6775722e636f6d2f6f4573764b44632e706e67" alt="Drawing" width="320px" />
+<br>
 6、TagCloudView   [项目地址](https://github.com/kingideayou/TagCloudView) <br>
 支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表<br>
 标签云效果，可以设置为 SingleLine 模式，丰富的自定义样式选择。<br>
