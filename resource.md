@@ -8,6 +8,8 @@ Open source code collection<br>
 3、android-tech-frontier  [项目地址](https://github.com/hehonghui/android-tech-frontier) <br>
 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,让我们的技术跟上国际步伐。<br>
 4、Android学习笔记  [项目地址](https://github.com/CharonChui/AndroidNote) <br>
+5、Fresco图片加载Demo   [项目地址](https://github.com/06peng/FrescoDemo) <br>
+A demo use Fresco to load image and base on Chris Banes' s Android Design library<br>
 ###React Native
 #####环境相关
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
