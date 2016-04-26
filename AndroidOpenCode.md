@@ -72,6 +72,8 @@ Create a custom ImageView for moving image around the screen.<br>
   ![](https://camo.githubusercontent.com/a164b67f7eec5d45926f827021983b0d65fac0ba/687474703a2f2f692e696d6775722e636f6d2f3079474d5379452e676966)   <br>
 5、MaterialViewPager     [项目地址](https://github.com/florent37/MaterialViewPager) <br>
   ![](https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966)   <br>
+6、SmartTabLayout     [项目地址](https://github.com/ogaclejapan/SmartTabLayout) <br>
+  ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)   <br>
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
