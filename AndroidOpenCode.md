@@ -39,21 +39,27 @@ A UI widget for adding headers and footers to RecyclerView<br>
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
 <br>
-  ![](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png)   <br>
+<img src="https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png" alt="Drawing" width="320px" />
+<br>
 2、TagViewLayout     [项目地址](https://github.com/jjhesk/TagViewLayout) <br>
 An Android TagView library. You can customize awesome TagView by using this library.<br>
-  ![](https://github.com/jjhesk/TagViewLayout/blob/master/baconLMY48Yhesk02012016174101.gif)   <br>
+<img src="https://github.com/jjhesk/TagViewLayout/blob/master/baconLMY48Yhesk02012016174101.gif" alt="Drawing" width="320px" />
+<br>
 3、MathView     [项目地址](https://github.com/kexanie/MathView) <br>
 MathView is a third-party view library, which might help you display math formula on Android apps easier. Two rendering engines available: MathJax and KaTeX. Support Android version 4.1 (Jelly Bean) and newer.<br>
-  ![](https://github.com/kexanie/MathView/raw/master/screenshot/screenshot.png)  <br>
+<img src="https://github.com/kexanie/MathView/raw/master/screenshot/screenshot.png" alt="Drawing" width="320px" />
+<br>
 4、UserGuideView     [项目地址](https://github.com/yilylong/UserGuideView) <br>
 用户指引view <br>
-![](https://raw.githubusercontent.com/yilylong/ImageResource/master/user_guide_view.png)  <br>
+<img src="https://raw.githubusercontent.com/yilylong/ImageResource/master/user_guide_view.png" alt="Drawing" width="320px" />
+<br>
 5、AgendaCalendarView     [项目地址](https://github.com/Tibolte/AgendaCalendarView) <br>
 An Android project providing easy navigation between a calendar and an agenda. This library replicates the basic features from the Sunrise Calendar (now Outlook) app, coupled with some small design touch from the Google Calendar app. <br>
-![](https://raw.githubusercontent.com/Tibolte/AgendaCalendarView/master/demo.gif)  <br>
+<img src="https://raw.githubusercontent.com/Tibolte/AgendaCalendarView/master/demo.gif" alt="Drawing" width="320px" />
+<br>
 6、IconEditText    [项目地址](https://github.com/KyleBanks/IconEditText) <br>
-![](https://camo.githubusercontent.com/5542f58de2d09a04a9423ec9e5cc42d5ae9f2560/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b796c657762616e6b732f49636f6e45646974546578742f6578616d706c652e706e67)  <br>
+<img src="https://camo.githubusercontent.com/5542f58de2d09a04a9423ec9e5cc42d5ae9f2560/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b796c657762616e6b732f49636f6e45646974546578742f6578616d706c652e706e67" alt="Drawing" width="320px" />
+<br>
 7、AutoLabelUI   [项目地址](https://github.com/DavidPizarro/AutoLabelUI) <br>
 Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line.<br>
 ![](https://github.com/DavidPizarro/AutoLabelUI/raw/master/art/demo.gif)  <br>
@@ -61,7 +67,8 @@ Android library to place labels next to another. If there is not enough space fo
 Create a custom ImageView for moving image around the screen.<br>
 ![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif)  <br>
 9、AndroidSegmentControl   [项目地址](https://github.com/liuhuibin/AndroidSegmentControl) <br>
-![](https://github.com/liuhuibin/AndroidSegmentControl/raw/master/.raw/snapshot.jpg)  <br>
+<img src="https://github.com/liuhuibin/AndroidSegmentControl/raw/master/.raw/snapshot.jpg" alt="Drawing" width="320px" />
+<br>
 10、ToggleButton   [项目地址](https://github.com/zcweng/ToggleButton) <br>
 ToggleButton Widget For Android Dev<br>
 ![](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  <br>
@@ -84,7 +91,8 @@ ToggleButton Widget For Android Dev<br>
 4、MultiViewPager     [项目地址](https://github.com/Pixplicity/MultiViewPager) <br>
   ![](https://camo.githubusercontent.com/a164b67f7eec5d45926f827021983b0d65fac0ba/687474703a2f2f692e696d6775722e636f6d2f3079474d5379452e676966)   <br>
 5、MaterialViewPager     [项目地址](https://github.com/florent37/MaterialViewPager) <br>
-  ![](https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966)   <br>
+<img src="https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966" alt="Drawing" width="320px" />
+<br>
 6、SmartTabLayout     [项目地址](https://github.com/ogaclejapan/SmartTabLayout) <br>
   ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)   <br>
 7、Gallery    [项目地址](https://github.com/jianghejie/Gallery) <br>
