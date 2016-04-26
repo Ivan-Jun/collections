@@ -178,6 +178,9 @@ More convenient and easy to use android Log manager <br>
 12、android-upload-service   [项目地址](https://github.com/gotev/android-upload-service) <br>
 Easily upload files in the background with automatic Android Notification Center progress indication.<br>
  ![](https://camo.githubusercontent.com/e14db5df226715b7a9b1af7027d76c886aa44e9d/687474703a2f2f676f7465762e6769746875622e696f2f616e64726f69642d75706c6f61642d736572766963652f75706c6f61642e676966)   <br>
+13、FontsManager    [项目地址](https://github.com/GcsSloop/FontsManager) <br>
+help you change the module font easily.(方便快速的为应用内所有组件更换字体) <br>
+![](https://camo.githubusercontent.com/0de05fc8a445b47decf2f3ba92e333ad5cb6daca/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f30303558746469326a773166326970373771387964673330366a3062346a72792e676966)
 #####十三、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
 An easy open source Android Native Game FrameWork.<br>
