@@ -61,6 +61,8 @@ Create a custom ImageView for moving image around the screen.<br>
 10、ToggleButton   [项目地址](https://github.com/zcweng/ToggleButton) <br>
 ToggleButton Widget For Android Dev<br>
 ![](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  <br>
+11、crossview   [项目地址](https://github.com/cdflynn/crossview) <br>
+![](https://github.com/cdflynn/crossview/raw/master/sample/images/cross_btn_2.gif?raw=true)  <br>
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
