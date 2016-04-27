@@ -177,6 +177,9 @@ CustomMenu是一个自定义的控件，可以帮助你快速创建Menu<br>
   An extension of ResideMenu<br>
   ![](https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif)   <br>
 
+5、CursorWheelLayout       [项目地址](https://github.com/BCsl/CursorWheelLayout) <br>
+  An Android Widget for selecting items that rotate on a wheel.<br>
+  ![](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif)   <br>
 
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
