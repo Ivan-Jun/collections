@@ -44,6 +44,10 @@ A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷�
 9、Bookends      [项目地址](https://github.com/tumblr/Bookends) <br>
 A UI widget for adding headers and footers to RecyclerView<br>
 
+10、StickyHeaderListView      [项目地址](https://github.com/sfsheng0322/StickyHeaderListView) <br>
+功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等<br>
+<img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif" alt="Drawing" width="320px" />
+<br>
 
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
