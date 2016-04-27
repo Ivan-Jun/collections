@@ -102,6 +102,9 @@ ToggleButton Widget For Android Dev<br>
 12、android-pathview   [项目地址](https://github.com/geftimov/android-pathview) <br>
 ![](https://github.com/geftimov/android-pathview/raw/master/art/path.gif)  <br>
 
+13、MaterialSearchView   [项目地址](https://github.com/Mauker1/MaterialSearchView) <br>
+<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" alt="Drawing" width="320px" />
+<br>
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
