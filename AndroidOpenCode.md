@@ -294,6 +294,10 @@ Android Texture VideoView having a variety of scale types like the scale types o
 
 6、fenster     [项目地址](https://github.com/malmstein/fenster) <br>
  ![](https://github.com/malmstein/fenster/blob/master/art/custom_controls.png)   <br>
+ 
+7、MusicBobber    [项目地址](https://github.com/Cleveroad/MusicBobber) <br>
+<img src="https://github.com/Cleveroad/MusicBobber/raw/master/images/demo.gif" alt="Drawing" width="320px" />
+<br>
 
 
 #####十二、工具
