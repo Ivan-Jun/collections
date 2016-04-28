@@ -11,6 +11,7 @@ Open source code collection<br>
 5、Fresco图片加载Demo   [项目地址](https://github.com/06peng/FrescoDemo) <br>
 A demo use Fresco to load image and base on Chris Banes' s Android Design library<br>
 6、The-Art-Of-Programming-By-July   [项目地址](https://github.com/julycoding/The-Art-Of-Programming-By-July) <br>
+7、AndroidNote   [项目地址](https://github.com/venshine/AndroidNote) <br>
 ###React Native
 #####环境相关
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
