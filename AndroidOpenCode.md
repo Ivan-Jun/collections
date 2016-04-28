@@ -49,6 +49,13 @@ A UI widget for adding headers and footers to RecyclerView<br>
 <img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif" alt="Drawing" width="320px" />
 <br>
 
+11、Smart-HeaderFooter-RecyclerView     [项目地址](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView) <br>
+Easy implements Header & Footer view, Support Liner、Grid、StaggeredLayoutManager, With least modification
+<br>
+非常方便的实现Recyclerview添加HeaderView和FooterView, 支持 LinearLayoutManager & GridLayoutManager & StaggeredLayoutManager<br>
+<img src="https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView/raw/master/screenshot/screen.png" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
