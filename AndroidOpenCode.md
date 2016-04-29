@@ -187,6 +187,11 @@ CustomMenu是一个自定义的控件，可以帮助你快速创建Menu<br>
 5、CursorWheelLayout       [项目地址](https://github.com/BCsl/CursorWheelLayout) <br>
   An Android Widget for selecting items that rotate on a wheel.<br>
   ![](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif)   <br>
+  
+6、BottomNavigationBar       [项目地址](https://github.com/RoyWallace/BottomNavigationBar) <br>
+Material design 更新的BottomNavigationbar的开源实现<br>
+目前版本最新版本是v0.3，还在努力完善中，有兴趣的朋友可以关注。如果发现问题请写在issue，我会定期查看和修复。<br>
+![](https://github.com/RoyWallace/BottomNavigationBar/raw/master/gif/v0.3.1.gif?raw=true)   <br>
 
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
