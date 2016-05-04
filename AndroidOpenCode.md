@@ -304,6 +304,10 @@ Android Texture VideoView having a variety of scale types like the scale types o
 <img src="https://github.com/Cleveroad/MusicBobber/raw/master/images/demo.gif" alt="Drawing" width="600px" />
 <br>
 
+8、GifLoadingView    [项目地址](https://github.com/Rogero0o/GifLoadingView) <br>
+<img src="https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966" alt="Drawing" width="600px" />
+<br>
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
