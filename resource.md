@@ -19,6 +19,7 @@ android or java技术书签,开源项目，开源工具，开源文档，资源�
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
 2、React-Native学习指南  [项目地址](https://github.com/ele828/react-native-guide) <br>
 本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！ <br>
+3、那些关于js的学习资料  [项目地址](https://annatarhe.github.io/2016/03/20/learning-resources-about-js.html) <br>
 ###问题处理
 # IOS
 ###学习笔记
