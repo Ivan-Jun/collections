@@ -7,4 +7,5 @@ Open source code collection<br>
 2、Android开发者博客汇总  [项目地址](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) <br>
 3、TextView实战之你真的懂我么？  [项目地址](http://blog.csdn.net/sdkfjksf/article/details/51317204) <br>
 4、Android超高仿QQ附近的人搜索展示  [项目地址](http://blog.csdn.net/mr_immortalz/article/details/51319354) <br>
+5、如何正确使用开源项目？  [博客地址](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661623&idx=1&sn=ab28ac6587e8a5ef1241be7870851355#rd) <br>
 
