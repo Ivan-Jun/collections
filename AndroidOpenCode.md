@@ -405,9 +405,14 @@ An easy open source Android Native Game FrameWork.<br>
 2、awesome-android     [项目地址](https://github.com/snowdream/awesome-android) <br>
 3、awesome-android-ui    [项目地址](https://github.com/wasabeef/awesome-android-ui) <br>
 4、android-open-project    [项目地址](https://github.com/Trinea/android-open-project) <br>
+
 #####十七、网络加载
 1、glide     [项目地址](https://github.com/bumptech/glide) <br>
 Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.<br>
+
+#####十八、传感器
+1、sensey     [项目地址](https://github.com/nisrulz/sensey) <br>
+Making gesture detection a breeze.
 
 
 
