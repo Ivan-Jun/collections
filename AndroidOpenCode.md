@@ -389,6 +389,11 @@ Android Transition animations explanation with examples.<br>
 Easy Android Animations is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects in your application with one or two lines of code.<br>
 <img src="https://raw.githubusercontent.com/2359media/EasyAndroidAnimations/master/demo.png" alt="Drawing" width="320px" /><br>
 
+4、wuspViewPkg    [项目地址](https://github.com/wusp/wuspViewPkg) <br>
+This package includes some of Android custom views I create, most of them have animation effects. 
+I'll add my custom views to this package and optimize them continually. 
+Each of them has a .gif animation to simply display the animation effect and using example. <br>
+<img src="https://github.com/wusp/WuspViewPkg/raw/master/app/src/main/java/com/wusp/wuspviewpkg/FlashBorder/flashborder.gif" alt="Drawing" width="320px" /><br>
 
 #####十四、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
