@@ -65,7 +65,7 @@ The ShowcaseView (SCV) library is designed to highlight and showcase specific pa
 
 2、TagViewLayout     [项目地址](https://github.com/jjhesk/TagViewLayout) <br>
 An Android TagView library. You can customize awesome TagView by using this library.<br>
-<img src="https://github.com/jjhesk/TagViewLayout/blob/master/baconLMY48Yhesk02012016174101.gif" alt="Drawing" width="320px" />
+<img src="https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966" alt="Drawing" width="320px" />
 <br>
 
 3、MathView     [项目地址](https://github.com/kexanie/MathView) <br>
