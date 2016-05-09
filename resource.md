@@ -25,3 +25,4 @@ android or java技术书签,开源项目，开源工具，开源文档，资源�
 ###学习笔记
 1、iOS 学习资料整理  [项目地址](https://github.com/Aufree/trip-to-iOS) <br>
 2、iOS 开发流程笔记  [项目地址](https://github.com/leecade/ios-dev-flow) <br>
+3、Swift 开源项目精选  [项目地址](https://github.com/ipader/SwiftGuide/blob/master/Featured.md) <br>
