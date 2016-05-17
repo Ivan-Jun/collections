@@ -123,6 +123,16 @@ ToggleButton Widget For Android Dev<br>
 <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" alt="Drawing" width="320px" />
 <br>
 
+16、VerticalRollingTextView   [项目地址](https://github.com/shubowen/VerticalRollingTextView) <br>
+竖直方向无限循环滚动显示文本的控件<br>
+<img src="https://github.com/shubowen/VerticalRollingTextView/raw/master/app/image.gif" alt="Drawing" width="320px" />
+<br>
+
+17、TagsEditText   [项目地址](https://github.com/mabbas007/TagsEditText) <br>
+Android EditText for view tags or chips<br>
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" alt="Drawing" width="320px" />
+<br>
+
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
