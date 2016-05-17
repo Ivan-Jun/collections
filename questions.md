@@ -6,7 +6,9 @@ Open source code collection<br>
 #####问题整理
 1、Android-Tips  [项目地址](https://github.com/tangqi92/Android-Tips) <br>
 学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。<br>
-为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。<br>
+
+2、ADB连接失败  [博客地址](http://blog.csdn.net/linghu_java/article/details/43735225) <br>
 ###React Native
 #####环境相关
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
