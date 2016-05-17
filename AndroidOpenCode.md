@@ -56,6 +56,12 @@ Easy implements Header & Footer view, Support Liner、Grid、StaggeredLayoutMana
 <img src="https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView/raw/master/screenshot/screen.png" alt="Drawing" width="320px" />
 <br>
 
+12、swipe-action-layout     [项目地址](https://github.com/prolificinteractive/swipe-action-layout) <br>
+A nice swipe layout that provides new actions with a material design look and feel
+<br>
+<https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
