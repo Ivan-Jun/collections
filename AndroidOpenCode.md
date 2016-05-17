@@ -425,6 +425,9 @@ An easy open source Android Native Game FrameWork.<br>
 1、 Android-Plugin-Framework     [项目地址](https://github.com/limpoxe/Android-Plugin-Framework) <br>
 此项目是Android插件开发框架完整源码及示例。用来通过动态加载的方式在宿主程序中运行插件APK<br>
 
+2、FireCrasher     [项目地址](https://github.com/osama-raddad/FireCrasher) <br>
+FireCrasher is designed to handle the Uncaught Exceptions on the android application and help recover from the Exception Without exiting from the application.<br>
+
 
 #####十六、其他相关整理项目
 1、ShareAndroidResource     [项目地址](https://github.com/Lafree317/ShareAndroidResource) <br>
