@@ -118,6 +118,11 @@ ToggleButton Widget For Android Dev<br>
 <img src="https://camo.githubusercontent.com/2f6c44577df8f8e11cf0e6c11d258abc1ece6960/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630353035303031383034373633" alt="Drawing" width="320px" />
 <br>
 
+15、ScratchView   [项目地址](https://github.com/cooltechworks/ScratchView) <br>
+刮刮卡效果，支持刮文字和图片。示<br>
+<img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" alt="Drawing" width="320px" />
+<br>
+
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
