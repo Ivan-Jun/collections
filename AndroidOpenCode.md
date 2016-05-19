@@ -278,6 +278,12 @@ TourGuide is an Android library. It lets you add pointer, overlay and tooltip ea
 LoadingView is easy to implement Loading indicators for your views or layouts<br>
 ![](https://raw.githubusercontent.com/buraktamturk/LoadingView/master/screenshots/sample.gif) <br>
 
+10、SwipeBackHelper   [项目地址](https://github.com/Jude95/SwipeBackHelper) <br>
+有与微信相同的下级activity联动效果。<br>
+滑动部分与Activity解耦.在自己的Activity中3个生命周期中加一行代码即可。<br>
+实现原理，在Activity的Window的decorView与它的子View中间插入一个View来进行手势处理与位移效果。<br>
+![](https://github.com/Jude95/SwipeBackHelper/raw/master/swipeback.gif) <br>
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
