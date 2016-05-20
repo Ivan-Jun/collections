@@ -62,6 +62,12 @@ A nice swipe layout that provides new actions with a material design look and fe
 <https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif" alt="Drawing" width="320px" />
 <br>
 
+13、StickyHeaders     [项目地址](https://github.com/ShamylZakariya/StickyHeaders) <br>
+Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.
+<br>
+<https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
