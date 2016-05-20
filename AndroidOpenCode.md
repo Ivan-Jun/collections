@@ -238,6 +238,10 @@ Material design 更新的BottomNavigationbar的开源实现<br>
 android 悬浮窗菜单，可在launcher或app中使用。<br>
 ![](https://github.com/fanOfDemo/FloatMenuSample/raw/master/pickture/201605031543.gif)   <br>
 
+8、BottomNavigation       [项目地址](https://github.com/Ashok-Varma/BottomNavigation) <br>
+This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations。<br>
+![](https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif)   <br>
+
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
