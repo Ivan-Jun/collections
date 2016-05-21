@@ -11,4 +11,5 @@ Open source code collection<br>
 6、Google开源的FlexboxLayout  [博客地址](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661681&idx=1&sn=b151aba0c5fb702492f6bbd82211988d#rd) <br>
 7、[一周阅读清单] 在线小工具推荐  [博客地址](http://mafei.me/2016/05/15/%E4%B8%80%E5%91%A8%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95-%E5%9C%A8%E7%BA%BF%E5%B0%8F%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/) <br>
 8、22 个 Android Studio 优秀插件汇总  [博客地址](http://www.devstore.cn/essay/essayInfo/6577.html) <br>
+9、Android自定义控件三部曲文章索引  [博客地址](http://blog.csdn.net/harvic880925/article/details/50995268) <br>
 
