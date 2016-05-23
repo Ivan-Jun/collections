@@ -299,6 +299,10 @@ LoadingView is easy to implement Loading indicators for your views or layouts<br
 实现原理，在Activity的Window的decorView与它的子View中间插入一个View来进行手势处理与位移效果。<br>
 ![](https://github.com/Jude95/SwipeBackHelper/raw/master/swipeback.gif) <br>
 
+11、AndroidAutoLayout   [项目地址](https://github.com/hongyangAndroid/AndroidAutoLayout) <br>
+Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。<br> http://blog.csdn.net/lmj623565791/article/details/49990941。<br>
+<img src="https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png" alt="Drawing" width="320px" />
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
