@@ -363,6 +363,11 @@ Android Texture VideoView having a variety of scale types like the scale types o
 <img src="https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966" alt="Drawing" width="600px" />
 <br>
 
+9、SuperVideoPlayer    [项目地址](https://github.com/curtis2/SuperVideoPlayer) <br>
+android超级视频播放器. 集成android流媒体处理的主流框架，vitamio, ijkplayer等等。使用不同的主流框架实现播放本地视频，网络视频，直播等功能。<br>
+<img src="https://github.com/curtis2/SuperVideoPlayer/blob/0aaf3ce2b6fc817d50ffdbe79a75ef6701c0b96b/source/start.gif" alt="Drawing" width="320px" />
+<br>
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
