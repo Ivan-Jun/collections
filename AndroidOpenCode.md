@@ -372,6 +372,11 @@ android超级视频播放器. 集成android流媒体处理的主流框架，vita
 <img src="https://github.com/curtis2/SuperVideoPlayer/blob/0aaf3ce2b6fc817d50ffdbe79a75ef6701c0b96b/source/start.gif" alt="Drawing" width="320px" />
 <br>
 
+10、IPTVFree   [项目地址](https://github.com/michelelacorte/IPTVFree) <br>
+Simple IPTV。<br>
+<img src="https://camo.githubusercontent.com/023c9097375e3562ed31fd2262fd7a095b0bf210/687474703a2f2f692e67697068792e636f6d2f6c34315968366e6b383256676a6546474d2e676966" alt="Drawing" width="700px" />
+<br>
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
