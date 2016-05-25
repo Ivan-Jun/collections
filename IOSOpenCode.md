@@ -14,6 +14,10 @@ FoldingCell is an expanding content cell inspired by folding paper material http
 RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. http://ramotion.com<br>
 <img src="https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif" alt="Drawing" width="320px" /><br>
 
+2、paper-switch     [项目地址](https://github.com/Ramotion/paper-switch) <br>
+RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on. http://ramotion.com<br>
+<img src="https://github.com/Ramotion/paper-switch/raw/master/screenshot.gif" alt="Drawing" width="320px" /><br>
+
 #####三、布局
 
 #####四、时间相关
