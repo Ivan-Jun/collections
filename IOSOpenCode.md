@@ -23,6 +23,9 @@ RAMPaperSwitch is a Swift module which paints over the parent view when the swit
 #####四、时间相关
 
 #####五、菜单
+1、circle-menu     [项目地址](https://github.com/Ramotion/circle-menu) <br>
+CircleMenu is a simple, elegant menu with a circular layout. http://ramotion.com<br>
+<img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" alt="Drawing" width="320px" /><br>
 
 #####六、动画
 
