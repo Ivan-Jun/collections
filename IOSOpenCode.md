@@ -9,6 +9,11 @@ FoldingCell is an expanding content cell inspired by folding paper material http
 [Android 版本](https://github.com/Ramotion/folding-cell-android) <br>
 <img src="https://github.com/Ramotion/folding-cell/raw/master/Screenshots/folding-cell.gif" alt="Drawing" width="320px" /><br>
 
+#####二、View
+1、reel-search     [项目地址](https://github.com/Ramotion/reel-search) <br>
+RAMReel is a controller that allows you to choose options from a list http://ramotion.com<br>
+<img src="https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif" alt="Drawing" width="320px" /><br>
+
 #####二、ViewPager
 1、animated-tab-bar     [项目地址](https://github.com/Ramotion/animated-tab-bar) <br>
 RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. http://ramotion.com<br>
@@ -17,6 +22,11 @@ RAMAnimatedTabBarController is a Swift module for adding animation to tabbar ite
 2、paper-switch     [项目地址](https://github.com/Ramotion/paper-switch) <br>
 RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on. http://ramotion.com<br>
 <img src="https://github.com/Ramotion/paper-switch/raw/master/screenshot.gif" alt="Drawing" width="320px" /><br>
+
+3、paper-onboarding     [项目地址](https://github.com/Ramotion/paper-onboarding) <br>
+PaperOnboarding is a material design slider http://ramotion.com<br>
+[Android 版本](https://github.com/Ramotion/paper-onboarding-android) <br>
+<img src="https://github.com/Ramotion/paper-onboarding/raw/master/preview.gif" alt="Drawing" width="320px" /><br>
 
 #####三、布局
 1、navigation-stack     [项目地址](https://github.com/Ramotion/navigation-stack) <br>
