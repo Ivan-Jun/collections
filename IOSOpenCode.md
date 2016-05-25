@@ -41,6 +41,9 @@ CircleMenu is a simple, elegant menu with a circular layout. http://ramotion.com
 <img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" alt="Drawing" width="320px" /><br>
 
 #####六、动画
+1、preview-transition     [项目地址](https://github.com/Ramotion/preview-transition) <br>
+PreviewTransition is a simple preview gallery controller http://ramotion.com<br>
+<img src="https://github.com/Ramotion/preview-transition/raw/master/preview.gif" alt="Drawing" width="320px" /><br>
 
 #####七、第三方插件
 
