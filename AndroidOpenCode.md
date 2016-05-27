@@ -308,6 +308,10 @@ LoadingView is easy to implement Loading indicators for your views or layouts<br
 Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。<br> http://blog.csdn.net/lmj623565791/article/details/49990941。<br>
 <img src="https://github.com/hongyangAndroid/AndroidAutoLayout/raw/master/autolayout_08.png" alt="Drawing" width="320px" />
 
+12、FlycoSystemBar   [项目地址](https://github.com/hongyangAndroid/AndroidAutoLayout) <br>
+A Helper for SystemBar include StatusBar and NavigationBar.<br>
+<img src="https://github.com/H07000223/FlycoSystemBar/raw/master/art/5.0.gif" alt="Drawing" width="320px" />
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
