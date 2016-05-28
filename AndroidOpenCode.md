@@ -160,7 +160,7 @@ NumberMorphView for Android.<br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
 ![](https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif)  <br>
 
-2、MaterialDesignDialog   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
+2、MaterialDesignDialog   [项目地址](https://github.com/291700351/MaterialDesignDialog) <br>
 谷歌Material Design风格的Dialog，向下兼容到API8.<br>
 ![](https://github.com/291700351/MaterialDesignDialog/raw/master/images/device-2016-05-27-231818.png)  <br>
 
