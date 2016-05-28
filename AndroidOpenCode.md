@@ -386,6 +386,11 @@ Simple IPTV。<br>
 <img src="https://camo.githubusercontent.com/023c9097375e3562ed31fd2262fd7a095b0bf210/687474703a2f2f692e67697068792e636f6d2f6c34315968366e6b383256676a6546474d2e676966" alt="Drawing" width="700px" />
 <br>
 
+11、JieCaoVideoPlayer   [项目地址](https://github.com/lipangit/JieCaoVideoPlayer) <br>
+Simple IPTV。<br>
+[APK下载](https://raw.githubusercontent.com/lipangit/jiecaovideoplayer/develop/downloads/jiecaovideoplayer-3.2-demo.apk) <br>
+<img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" alt="Drawing" width="700px" />
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
