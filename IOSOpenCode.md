@@ -45,6 +45,10 @@ CircleMenu is a simple, elegant menu with a circular layout. http://ramotion.com
 PreviewTransition is a simple preview gallery controller http://ramotion.com<br>
 <img src="https://github.com/Ramotion/preview-transition/raw/master/preview.gif" alt="Drawing" width="320px" /><br>
 
+2、fantastic-ios-animation     [项目地址](https://github.com/onmyway133/fantastic-ios-animation) <br>
+:umbrella: A collection of iOS animation repos<br>
+<img src="https://github.com/onmyway133/fantastic-ios-animation/raw/master/Screenshots/Banner.png" alt="Drawing" width="600px" /><br>
+
 #####七、第三方插件
 
 #####八、网络相关
