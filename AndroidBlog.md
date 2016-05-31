@@ -13,3 +13,7 @@ Open source code collection<br>
 8、22 个 Android Studio 优秀插件汇总  [博客地址](http://www.devstore.cn/essay/essayInfo/6577.html) <br>
 9、Android自定义控件三部曲文章索引  [博客地址](http://blog.csdn.net/harvic880925/article/details/50995268) <br>
 
+###博客收集整理
+1、Diycode每日文章精选  [博客地址](https://github.com/DiyCodes/code_news) <br>
+
+
