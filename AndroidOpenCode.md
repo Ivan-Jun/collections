@@ -254,6 +254,10 @@ android 悬浮窗菜单，可在launcher或app中使用。<br>
 This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations。<br>
 ![](https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif)   <br>
 
+9、DropDownMenu       [项目地址](https://github.com/baiiu/DropDownMenu) <br>
+a better DropDownMenu solution, 完整的筛选器解决方案<br>
+![](https://github.com/baiiu/DropDownMenu/raw/master/images/dropDownMenu.gif)   <br>
+
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
