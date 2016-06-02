@@ -363,7 +363,8 @@ ZBar扫描二维码「扫描中文会有乱码，如果对中文有要求，请�
 #####十一、多媒体
 1、jiecaovideoplayer     [项目地址](https://github.com/lipangit/jiecaovideoplayer) <br>
 真正实现Android的全屏功能，立志成为Android平台使用最广泛的视频播放控件<br>
- ![](https://github.com/lipangit/jiecaovideoplayer/raw/develop/screenshots/j3.jpg)   <br>
+ <img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" alt="Drawing" width="600px" />
+<br>
 
 2、sinavideo_playersdk    [项目地址](https://github.com/SinaVDDeveloper/sinavideo_playersdk) <br>
 大部分时候，在android中集成一个视频播放器是很痛苦的过程，因为google提供的多媒体控件实在距离UI太远（似乎这个框架根本没法用），我们也一样深受其害，所以，我们在自己研发解码器的时候，就顺手也处理了一下UI部分的逻辑。我们封装了大部分的播放器中的UI控件，比如playbutton之类的，把里面的大部分事件用EventBus模式进行了处理。这样，最终的结果是，大部分时候，集成一个播放器只需要三步就可以了。具体的可以参照demo中的例子，代码量确实很少，你懂的。<br>
