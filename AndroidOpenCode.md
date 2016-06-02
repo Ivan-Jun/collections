@@ -482,7 +482,7 @@ Easy Android Animations is an animation library that aims to make android animat
 This package includes some of Android custom views I create, most of them have animation effects. 
 I'll add my custom views to this package and optimize them continually. 
 Each of them has a .gif animation to simply display the animation effect and using example. <br>
-<img src="https://github.com/wusp/WuspViewPkg/raw/master/app/src/main/java/com/wusp/wuspviewpkg/FlashBorder/flashborder.gif" alt="Drawing" width="320px" /><br>
+<img src="https://github.com/wusp/IndicatorBox/raw/master/Demo/src/main/java/com/wusp/indicatorbox/example-gif/flashborder.gif" alt="Drawing" width="320px" /><br>
 
 #####十四、游戏相关
 1、 JustWeEngine     [项目地址](https://github.com/lfkdsk/JustWeEngine) <br>
