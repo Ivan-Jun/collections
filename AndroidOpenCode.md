@@ -323,6 +323,10 @@ Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成�
 A Helper for SystemBar include StatusBar and NavigationBar.<br>
 <img src="https://github.com/H07000223/FlycoSystemBar/raw/master/art/5.0.gif" alt="Drawing" width="320px" />
 
+13、MaterialIntroView   [项目地址](https://github.com/iammert/MaterialIntroView) <br>
+Material Intro View is a showcase android library.<br>
+<img src="https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif" alt="Drawing" width="320px" />
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
