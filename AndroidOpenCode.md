@@ -162,7 +162,7 @@ NumberMorphView for Android.<br>
 
 2、MaterialDesignDialog   [项目地址](https://github.com/291700351/MaterialDesignDialog) <br>
 谷歌Material Design风格的Dialog，向下兼容到API8.<br>
-![](https://github.com/291700351/MaterialDesignDialog/raw/master/images/device-2016-05-27-231818.png)  <br>
+<img src="https://github.com/291700351/MaterialDesignDialog/raw/master/images/device-2016-05-27-231818.png" alt="Drawing" width="320px" /><br>
 
 #####四、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
