@@ -4,94 +4,75 @@ Open source code collection<br>
 感谢这些作者开源分享
 ###View篇
 #####一、列表
-1、CarouselLayoutManager     
-[项目地址](https://github.com/Azoft/CarouselLayoutManager) 
-[效果展示](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif) 
-<br>
-Android LayoutManager for RecyclerView to support Carousel view style.<br>
-一个支持电影画廊效果的LayoutManager。<br>
+1、CarouselLayoutManager     [项目地址](https://github.com/Azoft/CarouselLayoutManager) <br>
+  ![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif)   <br>
 
-2、SectionedRecyclerViewAdapter     
-[项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) 
-[效果展示](https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png) 
-<br>
+2、SectionedRecyclerViewAdapter     [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter) <br>
 An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.<br>
+  <img src="https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png" alt="Drawing" width="320px" />
+  <br>
 
-3、LondonEyeLayoutManager
-[项目地址](https://github.com/danylovolokh/LondonEyeLayoutManager)
-[效果展示](https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif) 
-<br>
+3、LondonEyeLayoutManager     [项目地址](https://github.com/danylovolokh/LondonEyeLayoutManager) <br>
 A LayoutManager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br>
+  <img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" alt="Drawing" width="320px" />
+  <br>
 
-4、XRecyclerView 
-[项目地址](https://github.com/jianghejie/XRecyclerView)
-[效果展示](https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif) 
-<br>
+4、XRecyclerView     [项目地址](https://github.com/jianghejie/XRecyclerView) <br>
 a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView. you don't need to implement a special adapter .<br>
-
-5、HeaderAndFooterRecyclerView 
-[项目地址](https://github.com/cundong/HeaderAndFooterRecyclerView) 
-[效果展示](https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png) 
+<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" alt="Drawing" width="320px" />
 <br>
+
+5、HeaderAndFooterRecyclerView       [项目地址](https://github.com/cundong/HeaderAndFooterRecyclerView) <br>
 HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案。<br>
 它可以对 RecyclerView 控件进行拓展（通过RecyclerView.Adapter实现），给RecyclerView增加HeaderView、FooterView，并且不需要对你的具体业务逻辑Adapter做任何修改。<br>
 同时，通过修改 FooterView State，可以动态 FooterView 赋予不同状态（加载中、加载失败、滑到最底等），可以实现 RecyclerView 分页加载数据时的 Loading/TheEnd/NetWorkError 效果。<br>
+  ![](https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png) <br>
 
-6、CircleRefreshLayout      
-[项目地址](https://github.com/tuesda/CircleRefreshLayout)
-[效果展示](https://github.com/tuesda/CircleRefreshLayout/raw/master/gif/circlerefresh.gif) 
-<br>
+6、CircleRefreshLayout       [项目地址](https://github.com/tuesda/CircleRefreshLayout) <br>
 a custom pull-to-refresh layout which contains a interesting animation<br>
+  ![](https://github.com/tuesda/CircleRefreshLayout/raw/master/gif/circlerefresh.gif) <br>
 
-7、SuperSwipeRefreshLayout      
-[项目地址](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)
-[效果展示](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/raw/master/demo.gif) 
-<br>
+7、SuperSwipeRefreshLayout      [项目地址](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout) <br>
 A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多<br>
-
-8、BGARefreshLayout-Android     
-[项目地址](https://github.com/bingoogolapple/BGARefreshLayout-Android) 
-[效果展示](https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966) 
+<img src="https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/raw/master/demo.gif" alt="Drawing" width="320px" />
 <br>
+
+8、BGARefreshLayout-Android      [项目地址](https://github.com/bingoogolapple/BGARefreshLayout-Android) <br>
 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位<br>
+  ![](https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966) <br>
 
 9、Bookends      [项目地址](https://github.com/tumblr/Bookends) <br>
 A UI widget for adding headers and footers to RecyclerView<br>
 
-10、StickyHeaderListView   
-[项目地址](https://github.com/sfsheng0322/StickyHeaderListView) 
-[效果展示](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif) 
-<br>
+10、StickyHeaderListView      [项目地址](https://github.com/sfsheng0322/StickyHeaderListView) <br>
 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等<br>
-
-11、Smart-HeaderFooter-RecyclerView   
-[项目地址](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView)
-[效果展示](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView/raw/master/screenshot/screen.png) 
+<img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif" alt="Drawing" width="320px" />
 <br>
+
+11、Smart-HeaderFooter-RecyclerView     [项目地址](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView) <br>
 Easy implements Header & Footer view, Support Liner、Grid、StaggeredLayoutManager, With least modification
 <br>
 非常方便的实现Recyclerview添加HeaderView和FooterView, 支持 LinearLayoutManager & GridLayoutManager & StaggeredLayoutManager<br>
-
-12、swipe-action-layout  
-[项目地址](https://github.com/prolificinteractive/swipe-action-layout) 
-[效果展示](https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif) 
+<img src="https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView/raw/master/screenshot/screen.png" alt="Drawing" width="320px" />
 <br>
+
+12、swipe-action-layout     [项目地址](https://github.com/prolificinteractive/swipe-action-layout) <br>
 A nice swipe layout that provides new actions with a material design look and feel
 <br>
-
-13、StickyHeaders    
-[项目地址](https://github.com/ShamylZakariya/StickyHeaders) 
-[效果展示](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif) 
+<https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif" alt="Drawing" width="320px" />
 <br>
+
+13、StickyHeaders     [项目地址](https://github.com/ShamylZakariya/StickyHeaders) <br>
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.
+<br>
+<https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" alt="Drawing" width="320px" />
 <br>
 
 #####二、View
-1、ShowcaseView   
-[项目地址](https://github.com/amlcurran/ShowcaseView) 
-[效果展示](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png) 
-<br>
+1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
+<br>
+<img src="https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png" alt="Drawing" width="320px" />
 <br>
 
 2、TagViewLayout     [项目地址](https://github.com/jjhesk/TagViewLayout) <br>
