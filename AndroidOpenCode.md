@@ -165,6 +165,11 @@ Lettrine is a library that let you display TextView with an initial first letter
 <img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif" alt="Drawing" width="320px" />
 <br>
 
+22、BlurView   [项目地址](https://github.com/Dimezis/BlurView) <br>
+Dynamic iOS-like blur of underlying Views for Android<br>
+<img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" alt="Drawing" width="320px" />
+<br>
+
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
