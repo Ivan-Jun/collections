@@ -422,6 +422,10 @@ Simple IPTV。<br>
 [APK下载](https://raw.githubusercontent.com/lipangit/jiecaovideoplayer/develop/downloads/jiecaovideoplayer-3.2-demo.apk) <br>
 <img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" alt="Drawing" width="700px" />
 
+12、MyScreenShot   [项目地址](https://github.com/syusuke/MyScreenShot) <br>
+Android 屏幕视频录制<br>
+<img src="https://github.com/syusuke/MyScreenShot/raw/master/my/art.png" alt="Drawing" width="320px" />
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
