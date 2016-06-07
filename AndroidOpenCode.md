@@ -483,6 +483,9 @@ Simple, pretty and powerful logger for android<br>
 16、ASimpleCache    [项目地址](https://github.com/yangfuhai/ASimpleCache) <br>
 ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件（由十几个类精简而来）。<br>
 
+17、AndroidCommon    [项目地址](https://github.com/h4de5ing/AndroidCommon) <br>
+基于Android系统Api封装常用工具类 http://19code.com<br>
+
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
