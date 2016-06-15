@@ -426,6 +426,10 @@ Simple IPTV。<br>
 Android 屏幕视频录制<br>
 <img src="https://github.com/syusuke/MyScreenShot/raw/master/my/art.png" alt="Drawing" width="320px" />
 
+13、BezierMaker   [项目地址](https://github.com/venshine/BezierMaker) <br>
+通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画<br>
+<img src="https://github.com/venshine/BezierMaker/raw/master/screenshot/1.gif" alt="Drawing" width="320px" />
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
