@@ -68,6 +68,12 @@ Adapter and LayoutManager for Android RecyclerView which enables sticky header p
 <https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" alt="Drawing" width="320px" />
 <br>
 
+14、CardStackView     [项目地址](https://github.com/loopeer/CardStackView) <br>
+One Custom view for show something just like cards with animations.
+<br>
+<https://raw.githubusercontent.com/loopeer/CardStackView/master/screenshot/screenshot2.gif" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
