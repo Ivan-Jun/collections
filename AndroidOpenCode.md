@@ -342,6 +342,10 @@ A Helper for SystemBar include StatusBar and NavigationBar.<br>
 Material Intro View is a showcase android library.<br>
 <img src="https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif" alt="Drawing" width="320px" />
 
+14、ExpandableLayout   [项目地址](https://github.com/SilenceDut/ExpandableLayout) <br>
+A expandable Layout to save space and reduce jump between Activity and Fragment.<br>
+<img src="https://github.com/SilenceDut/ExpandableLayout/raw/master/media/simple_use.gif" alt="Drawing" width="320px" />
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
