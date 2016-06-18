@@ -181,6 +181,11 @@ Dynamic iOS-like blur of underlying Views for Android<br>
 <img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" alt="Drawing" width="320px" />
 <br>
 
+23、AbilityChart   [项目地址](https://github.com/jiefly/AbilityChart) <br>
+A custom view that can show many property with lines or area<br>
+<img src="https://github.com/jiefly/AbilityChart/raw/master/app/GIF_AbilityChart.gif" alt="Drawing" width="320px" />
+<br>
+
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
 一个强大的Android对话框库,简化自定义对话框.支持2.2+.<br>
