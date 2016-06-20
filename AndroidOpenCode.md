@@ -362,6 +362,10 @@ Material Intro View is a showcase android library.<br>
 A expandable Layout to save space and reduce jump between Activity and Fragment.<br>
 <img src="https://github.com/SilenceDut/ExpandableLayout/raw/master/media/simple_use.gif" alt="Drawing" width="320px" />
 
+15、HoldToLoadLayout   [项目地址](https://github.com/melihaksoy/HoldToLoadLayout) <br>
+A layout that creates a loading-like progress around it's child ( circle ), inspired from Destiny's ( PS4 ) accept mechanism<br>
+<img src="https://github.com/melihaksoy/HoldToLoadLayout/raw/master/gifs/hlt_2.gif" alt="Drawing" width="320px" />
+
 
 #####七、时间相关控件
 1、CountdownView     [项目地址](https://github.com/iwgang/CountdownView) <br>
