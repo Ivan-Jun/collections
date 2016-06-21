@@ -249,6 +249,10 @@ An android library for navigator that stick on the top <br>
 16、RollViewPager  [项目地址](https://github.com/Jude95/RollViewPager) <br>
 ![](https://github.com/Jude95/RollViewPager/raw/master/example.jpg)   <br>
 
+17、ExpandingPager  [项目地址](https://github.com/qs-lll/ExpandingPager) <br>
+炒鸡牛逼的ExpandingPager效果<br>
+![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)   <br>
+
 
 
 #####五、菜单
