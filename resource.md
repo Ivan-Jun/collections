@@ -16,6 +16,8 @@ A demo use Fresco to load image and base on Chris Banes' s Android Design librar
 android or java技术书签,开源项目，开源工具，开源文档，资源分享(主要是关于Android方面，兼顾Java)，收藏夹，优秀网站，笔记整理；(分享是一种美德)<br>
 9、LearningNotes   [项目地址](https://github.com/GeniusVJR/LearningNotes) <br>
 Enjoy Learning.<br>
+10、AndroidInterview   [项目地址](https://github.com/fanrunqi/AndroidInterview) <br>
+Android 名企面试题及涉及知识点整理。<br>
 ###React Native
 #####环境相关
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
