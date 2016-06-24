@@ -191,6 +191,11 @@ Step by step，just use stepviewIndicator，step indicator，流程指示器，t
 <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" alt="Drawing" width="320px" />
 <br>
 
+25、RatingView   [项目地址](https://github.com/Ornolfr/RatingView) <br>
+Simple android widget that can replace standard inconvenient RatingBar in your app.<br>
+<img src="https://camo.githubusercontent.com/3db8e39d6d0754b4a2561564a8620dff1bd7870e/68747470733a2f2f676f6f676c6564726976652e636f6d2f686f73742f3042777a315f62396d413758596243314551323878614856776347632f726174696e6776696577322e6a7067" alt="Drawing" width="320px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
