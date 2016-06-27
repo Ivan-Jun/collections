@@ -264,7 +264,9 @@ An android library for navigator that stick on the top <br>
 炒鸡牛逼的ExpandingPager效果<br>
 ![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)   <br>
 
-
+18、MagicIndicator  [项目地址](https://github.com/hackware1993/MagicIndicator) <br>
+强大的、易扩展的ViewPager指示器框架<br>
+![](http://upload-images.jianshu.io/upload_images/2234662-f5e8da01c4054104.gif?imageMogr2/auto-orient/strip)   <br>
 
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
