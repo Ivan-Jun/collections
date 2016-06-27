@@ -268,6 +268,10 @@ An android library for navigator that stick on the top <br>
 强大的、易扩展的ViewPager指示器框架<br>
 ![](http://upload-images.jianshu.io/upload_images/2234662-f5e8da01c4054104.gif?imageMogr2/auto-orient/strip)   <br>
 
+19、MarqueeLayoutLibrary  [项目地址](https://github.com/oubowu/MarqueeLayoutLibrary) <br>
+一个支持四个方向循环滚动的自定义控件<br>
+![](https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif)   <br>
+
 #####五、菜单
 1、DropDownMenu     [项目地址](https://github.com/dongjunkun/DropDownMenu) <br>
 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等<br>
