@@ -18,6 +18,8 @@ android or java技术书签,开源项目，开源工具，开源文档，资源�
 Enjoy Learning.<br>
 10、AndroidInterview   [项目地址](https://github.com/fanrunqi/AndroidInterview) <br>
 Android 名企面试题及涉及知识点整理。<br>
+11、Android-Resources   [项目地址](https://github.com/AlanCheen/Android-Resources) <br>
+优秀的Android资源整理<br>
 ###React Native
 #####环境相关
 1、解决ReactNative嵌入原生环境运行失败问题  [项目地址](https://github.com/Kennytian/embedded) <br>
