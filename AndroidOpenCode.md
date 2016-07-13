@@ -558,6 +558,10 @@ ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。轻�
 18、blankapp-validation    [项目地址](https://github.com/lijy91/blankapp-validation) <br>
 专注于 Android 表单验证，用方法链构建你的验证规则。<br>
 
+19、ParallaxBackLayout    [项目地址](https://github.com/anzewei/ParallaxBackLayout) <br>
+视差滑动返回的 Activity<br>
+<img src="https://github.com/anzewei/ParallaxBackLayout/raw/master/ext/v0.2.gif" alt="Drawing" width="320px" /><br>
+
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
@@ -605,7 +609,6 @@ Glide is a fast and efficient open source media management and image loading fra
 #####十八、传感器
 1、sensey     [项目地址](https://github.com/nisrulz/sensey) <br>
 Making gesture detection a breeze.
-
 
 
 
