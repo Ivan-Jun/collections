@@ -499,6 +499,10 @@ Android 屏幕视频录制<br>
 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画<br>
 <img src="https://github.com/venshine/BezierMaker/raw/master/screenshot/1.gif" alt="Drawing" width="320px" />
 
+14、material-camera   [项目地址](https://github.com/afollestad/material-camera) <br>
+One of the most difficult APIs on Android, made easy in a small library. http://aidanfollestad.com<br>
+<img src="https://raw.githubusercontent.com/afollestad/material-camera/master/art/showcase.png" alt="Drawing" width="320px" />
+
 
 #####十二、工具
 1、 JustWeTools     [项目地址](https://github.com/lfkdsk/JustWeTools) <br>
