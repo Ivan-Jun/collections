@@ -578,6 +578,9 @@ ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。轻�
 通知工具类<br>
 <img src="https://camo.githubusercontent.com/41d696a579065eb8f234a00485387947655d12a0/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3639316363313531677731663037373476737937786732306463306b307836702e676966" alt="Drawing" width="320px" /><br>
 
+21、PinyinSearchLibrary    [项目地址](https://github.com/handsomezhou/PinyinSearchLibrary) <br>
+Provide data analysis methods, data matching method and so on for T9 pinyin search and Qwerty pinyin search in Java. The project demonstrates contacts search on android. https://github.com/handsomezhou/PinyinSearchLibrary<br>
+<img src="https://github.com/handsomezhou/PinyinSearchLibrary/raw/master/external_res/image/ContactsSearch.gif" alt="Drawing" width="320px" /><br>
 
 
 #####十三、动画
