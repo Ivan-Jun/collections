@@ -574,6 +574,11 @@ ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。轻�
 视差滑动返回的 Activity<br>
 <img src="https://github.com/anzewei/ParallaxBackLayout/raw/master/ext/v0.2.gif" alt="Drawing" width="320px" /><br>
 
+20、NotifyUtil    [项目地址](https://github.com/wenmingvs/NotifyUtil) <br>
+通知工具类<br>
+<img src="https://camo.githubusercontent.com/41d696a579065eb8f234a00485387947655d12a0/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3639316363313531677731663037373476737937786732306463306b307836702e676966" alt="Drawing" width="320px" /><br>
+
+
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
