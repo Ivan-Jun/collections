@@ -216,6 +216,11 @@ Android 自定义View 仪表盘<br>
 <img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" alt="Drawing" width="400px" />
 <br>
 
+29、WheelPicker    [项目地址](https://github.com/AigeStudio/WheelPicker) <br>
+Simple and fantastic wheel view in realistic effect for android.<br>
+<img src="https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif" alt="Drawing" width="400px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
