@@ -226,6 +226,11 @@ Android 3D立体无限旋转滚动容器。This is a stereo view(3D) for Android
 <img src="https://camo.githubusercontent.com/dc86ed6f966895ef1e343efc5cc7fd0469ec33c1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535343532303530" alt="Drawing" width="400px" />
 <br>
 
+31、PaperShredder    [项目地址](https://github.com/ldoublem/PaperShredder) <br>
+碎纸机动画，点子出自<br>
+<img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot1.gif" alt="Drawing" width="320px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
