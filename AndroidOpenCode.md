@@ -231,6 +231,12 @@ Android 3D立体无限旋转滚动容器。This is a stereo view(3D) for Android
 <img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot1.gif" alt="Drawing" width="320px" />
 <br>
 
+32、ScrollNumber  [项目地址](https://github.com/a-voyager/ScrollNumber) <br>
+一个 简单、优雅、易用 的滚动数字控件！<br>
+<img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
+<br>
+
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
