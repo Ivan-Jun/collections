@@ -236,6 +236,11 @@ Android 3D立体无限旋转滚动容器。This is a stereo view(3D) for Android
 <img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
 <br>
 
+33、ticker  [项目地址](https://github.com/robinhood/ticker) <br>
+An Android text view with scrolling text change animation https://medium.com/robinhood-engineering/hello-ticker-20eaf6e51689<br>
+<img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
+<br>
+
 
 
 #####三、Dialog
