@@ -241,6 +241,10 @@ An Android text view with scrolling text change animation https://medium.com/rob
 <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
 <br>
 
+34、SeatTable  [项目地址](https://github.com/qifengdeqingchen/SeatTable) <br>
+电影票在线选座<br>
+<img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" alt="Drawing" width="320px" />
+<br>
 
 
 #####三、Dialog
