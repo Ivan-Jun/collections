@@ -84,6 +84,11 @@ A custom animation with scroll listener to recycler views<br>
 <https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif" alt="Drawing" width="320px" />
 <br>
 
+17、PinnedSectionItemDecoration     [项目地址](https://github.com/oubowu/PinnedSectionItemDecoration) <br>
+一个强大的粘性标签库，实现思路来源于「pinned-section-item-decoration」,感觉有用的话star个呗（＾∀＾）<br>
+<https://github.com/oubowu/PinnedSectionItemDecoration/raw/master/pic/big_header_linearlayout.gif" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
