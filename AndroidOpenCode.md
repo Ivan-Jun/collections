@@ -251,6 +251,11 @@ An Android text view with scrolling text change animation https://medium.com/rob
 <img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" alt="Drawing" width="320px" />
 <br>
 
+35、LikeSinaSportProgress  [项目地址](https://github.com/YangShaoXiong/LikeSinaSportProgress) <br>
+仿新浪体育客户端的进度条<br>
+<img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" alt="Drawing" width="320px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
