@@ -256,6 +256,11 @@ An Android text view with scrolling text change animation https://medium.com/rob
 <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" alt="Drawing" width="320px" />
 <br>
 
+36、android_scratchoff  [项目地址](https://github.com/jackpocket/android_scratchoff) <br>
+A Scratchoff View system.<br>
+<img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" alt="Drawing" width="200px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
