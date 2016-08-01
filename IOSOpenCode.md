@@ -14,6 +14,10 @@ FoldingCell is an expanding content cell inspired by folding paper material http
 RAMReel is a controller that allows you to choose options from a list http://ramotion.com<br>
 <img src="https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif" alt="Drawing" width="320px" /><br>
 
+2、YPTabBarController     [项目地址](https://github.com/yuping1989/YPTabBarController) <br>
+功能强大，使用方便，可高度自定义的TabBarController。<br>
+<img src="https://github.com/yuping1989/YPTabBarController/raw/master/YPTabBarController/Demo/DynamicItemWidthTab.gif" alt="Drawing" width="320px" /><br>
+
 #####二、ViewPager
 1、animated-tab-bar     [项目地址](https://github.com/Ramotion/animated-tab-bar) <br>
 RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. http://ramotion.com<br>
