@@ -12,6 +12,7 @@ Open source code collection<br>
 7、[一周阅读清单] 在线小工具推荐  [博客地址](http://mafei.me/2016/05/15/%E4%B8%80%E5%91%A8%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95-%E5%9C%A8%E7%BA%BF%E5%B0%8F%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/) <br>
 8、22 个 Android Studio 优秀插件汇总  [博客地址](http://www.devstore.cn/essay/essayInfo/6577.html) <br>
 9、Android自定义控件三部曲文章索引  [博客地址](http://blog.csdn.net/harvic880925/article/details/50995268) <br>
+10、android framework层源码解析  [项目地址](https://github.com/yipianfengye/androidSource) <br>
 
 ###博客收集整理
 1、Diycode每日文章精选  [博客地址](https://github.com/DiyCodes/code_news) <br>
