@@ -630,6 +630,9 @@ Provide data analysis methods, data matching method and so on for T9 pinyin sear
 22、Lazy    [项目地址](https://github.com/l123456789jy/Lazy) <br>
 The android tools 自己整理的常用的工具类<br>
 
+23、Luban    [项目地址](https://github.com/Curzibn/Luban) <br>
+Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法<br>
+
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
