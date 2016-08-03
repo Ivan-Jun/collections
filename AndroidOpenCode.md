@@ -633,6 +633,9 @@ The android tools 自己整理的常用的工具类<br>
 23、Luban    [项目地址](https://github.com/Curzibn/Luban) <br>
 Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法<br>
 
+24、tilesview    [项目地址](https://github.com/JoanZapata/tilesview) <br>
+TilesView is an Android widget that is able to display a very huge image and make it browsable.<br>
+
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
