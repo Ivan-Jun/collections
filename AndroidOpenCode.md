@@ -94,6 +94,11 @@ A custom animation with scroll listener to recycler views<br>
 <https://github.com/Hitomis/FunGameRefresh/raw/master/preview/HitBlock.gif" alt="Drawing" width="320px" />
 <br>
 
+19、PinnedSectionItemDecoration     [项目地址](https://github.com/oubowu/PinnedSectionItemDecoration) <br>
+A powerful ItemDecoration for Recyclerview, supports the common layoutmanager.<br>
+<https://github.com/oubowu/PinnedSectionItemDecoration/raw/master/pic/stock_demo.gif" alt="Drawing" width="320px" />
+<br>
+
 #####二、View
 1、ShowcaseView     [项目地址](https://github.com/amlcurran/ShowcaseView) <br>
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
