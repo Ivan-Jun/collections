@@ -393,6 +393,10 @@ This Library helps users to use Bottom Navigation Bar (A new pattern from google
 a better DropDownMenu solution, 完整的筛选器解决方案<br>
 ![](https://github.com/baiiu/DropDownMenu/raw/master/images/dropDownMenu.gif)   <br>
 
+10、SwipeRevealLayout       [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
+Easy, flexible and powerful Swipe Layout for Android<br>
+![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_normal.gif)   <br>
+
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
