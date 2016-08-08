@@ -654,6 +654,10 @@ TilesView is an Android widget that is able to display a very huge image and mak
 Android 图片选择器。支持图库多选/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调<br>
 <img src="https://github.com/smuyyh/ImageSelector/raw/master/screenshot/screen.png?raw=true" alt="Drawing" width="320px" /><br>
 
+26、HeiPermission    [项目地址](https://github.com/forJrking/HeiPermission) <br>
+Hei 一句代码搞定 Android M 动态权限检测。信不信由你，反正我用了。<br>
+<img src="https://github.com/forJrking/HeiPermission/raw/master/img/1.gif" alt="Drawing" width="320px" /><br>
+
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
 Simple tool which help you to implement activity and fragment transition for pre-Lollipop devices.<br>
