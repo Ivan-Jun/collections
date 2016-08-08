@@ -289,6 +289,10 @@ A Scratchoff View system.<br>
 仿照系统Dialog所写，继承于FrameLayout，添加一些动画，一些显示类型。<br>
 <img src="https://github.com/canyinghao/CanDialog/raw/master/pic/CanDialog.gif" alt="Drawing" width="320px" /><br>
 
+5、android-adDialog   [项目地址](https://github.com/yipianfengye/android-adDialog) <br>
+一个简单，强大的广告活动弹窗控件<br>
+<img src="https://github.com/yipianfengye/android-adDialog/raw/master/images/ezgif.com-video-to-gif1.gif" alt="Drawing" width="320px" /><br>
+
 #####四、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
