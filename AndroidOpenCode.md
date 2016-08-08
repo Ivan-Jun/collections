@@ -650,6 +650,9 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法<br>
 24、tilesview    [项目地址](https://github.com/JoanZapata/tilesview) <br>
 TilesView is an Android widget that is able to display a very huge image and make it browsable.<br>
 
+25、ImageSelector    [项目地址](https://github.com/smuyyh/ImageSelector) <br>
+Android 图片选择器。支持图库多选/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调<br>
+<img src="https://github.com/smuyyh/ImageSelector/raw/master/screenshot/screen.png?raw=true" alt="Drawing" width="320px" /><br>
 
 #####十三、动画
 1、PreLollipopTransition    [项目地址](https://github.com/takahirom/PreLollipopTransition) <br>
