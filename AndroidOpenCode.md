@@ -401,6 +401,10 @@ a better DropDownMenu solution, 完整的筛选器解决方案<br>
 Easy, flexible and powerful Swipe Layout for Android<br>
 ![](https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_normal.gif)   <br>
 
+11、SwipeMenuDemo       [项目地址](https://github.com/Brioal/SwipeMenuDemo) <br>
+侧滑菜单<br>
+![](https://github.com/Brioal/SwipeMenuDemo/raw/master/art/1.gif)   <br>
+
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
