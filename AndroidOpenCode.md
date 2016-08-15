@@ -271,6 +271,11 @@ A Scratchoff View system.<br>
 <img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" alt="Drawing" width="200px" />
 <br>
 
+37、android-swipecards-view  [项目地址](https://github.com/Arjun-sna/android-swipecards-view) <br>
+Android library for implement cards stack view with swipe to remove feature<br>
+<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" alt="Drawing" width="200px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
