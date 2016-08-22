@@ -410,6 +410,10 @@ Easy, flexible and powerful Swipe Layout for Android<br>
 侧滑菜单<br>
 ![](https://github.com/Brioal/SwipeMenuDemo/raw/master/art/1.gif)   <br>
 
+12、FlyoutMenus       [项目地址](https://github.com/ShamylZakariya/FlyoutMenus) <br>
+Simple material-style flyout menus for Android. There are many flyout type menus for Android, but this one is mine.<br>
+<img src="https://github.com/ShamylZakariya/FlyoutMenus/raw/master/readme-assets/flyoutmenus-big.gif" alt="Drawing" width="320px" />
+
 #####六、布局
 1、SwipeRevealLayout     [项目地址](https://github.com/chthai64/SwipeRevealLayout) <br>
   A layout that you can swipe/slide to show another layout.<br>
