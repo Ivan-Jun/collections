@@ -302,6 +302,11 @@ Android library for implement cards stack view with swipe to remove feature<br>
 Android PopupWindow that can be easily located relative to anchor View.<br>
 <img src="https://github.com/kakajika/RelativePopupWindow/raw/master/art/art1.gif" alt="Drawing" width="320px" /><br>
 
+7、BottomSheetBuilder   [项目地址](https://github.com/rubensousa/BottomSheetBuilder) <br>
+A simple library that creates BottomSheets according to the Material Design specs.<br>
+<img src="https://github.com/rubensousa/BottomSheetBuilder/raw/master/screens/sheet-list-submenu.png" alt="Drawing" width="320px" />
+<img src="https://github.com/rubensousa/BottomSheetBuilder/raw/master/screens/sheet-list-simple.png" alt="Drawing" width="320px" /><img src="https://github.com/rubensousa/BottomSheetBuilder/raw/master/screens/sheet-grid.png" alt="Drawing" width="320px" /><br>
+
 #####四、ViewPager
 1、Android-ConvenientBanner     [项目地址](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) <br>
   通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。<br>
