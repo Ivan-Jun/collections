@@ -286,6 +286,11 @@ A custom wavy line view for android.<br>
 <img src="https://github.com/andyxialm/WavyLineView/raw/master/art/wavyline.gif?raw=true" alt="Drawing" width="200px" />
 <br>
 
+40、GpCollapsingToolbar  [项目地址](https://github.com/VyacheslavShmakin/GpCollapsingToolbar) <br>
+Google Play app behaviour collapsing toolbar<br>
+<img src="https://raw.githubusercontent.com/VyacheslavShmakin/GpCollapsingToolbar/master/sample/demo.gif" alt="Drawing" width="200px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
