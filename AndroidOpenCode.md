@@ -281,6 +281,11 @@ Library that enables TextView of ImageView to show loading animation while waiti
 <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" alt="Drawing" width="200px" />
 <br>
 
+39、WavyLineView  [项目地址](https://github.com/andyxialm/WavyLineView) <br>
+A custom wavy line view for android.<br>
+<img src="https://github.com/andyxialm/WavyLineView/raw/master/art/wavyline.gif?raw=true" alt="Drawing" width="200px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
