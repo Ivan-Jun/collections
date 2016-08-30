@@ -276,6 +276,11 @@ Android library for implement cards stack view with swipe to remove feature<br>
 <img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" alt="Drawing" width="200px" />
 <br>
 
+38、loaderviewlibrary  [项目地址](https://github.com/elye/loaderviewlibrary) <br>
+Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded<br>
+<img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" alt="Drawing" width="200px" />
+<br>
+
 
 #####三、Dialog
 1、FlycoDialog_Master   [项目地址](https://github.com/H07000223/FlycoDialog_Master) <br>
