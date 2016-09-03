@@ -44,7 +44,6 @@
 [WavyLineView](https://github.com/andyxialm/WavyLineView)  |  <img src="https://github.com/andyxialm/WavyLineView/raw/master/art/wavyline.gif?raw=true" alt="Drawing" width="320px" />
 [GpCollapsingToolbar](https://github.com/VyacheslavShmakin/GpCollapsingToolbar)  |  <img src="https://raw.githubusercontent.com/VyacheslavShmakin/GpCollapsingToolbar/master/sample/demo.gif" alt="Drawing" width="320px" />
 [CountdownView](https://github.com/iwgang/CountdownView)  |  <img src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif" alt="Drawing" width="320px" />
-[AndroidVuMeter](https://github.com/HugoGresse/AndroidVuMeter)  |  <img src="https://github.com/HugoGresse/AndroidVuMeter/raw/master/demo.gif" alt="Drawing" width="320px" />
 
 
 
