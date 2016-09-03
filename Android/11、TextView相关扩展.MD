@@ -9,3 +9,5 @@
 [VerticalRollingTextView](https://github.com/shubowen/VerticalRollingTextView)  |  <img src="https://github.com/shubowen/VerticalRollingTextView/raw/master/app/image.gif" alt="Drawing" width="320px" />
 [Lettrine](https://github.com/rpradal/Lettrine)  |  <img src="https://camo.githubusercontent.com/835a43a7ec909ea0dd6e2fdf8b250011036e1063/687474703a2f2f692e696d6775722e636f6d2f6976674831675a2e6a7067" alt="Drawing" width="320px" />
 [MarqueeView](https://github.com/sfsheng0322/MarqueeView)  |  <img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif" alt="Drawing" width="320px" />
+[ScrollNumber](https://github.com/a-voyager/ScrollNumber)  |  <img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
+[ticker](https://github.com/robinhood/ticker)  |  <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
