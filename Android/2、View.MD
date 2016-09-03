@@ -43,6 +43,8 @@
 [loaderviewlibrary](https://github.com/elye/loaderviewlibrary)  |  <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" alt="Drawing" width="320px" />
 [WavyLineView](https://github.com/andyxialm/WavyLineView)  |  <img src="https://github.com/andyxialm/WavyLineView/raw/master/art/wavyline.gif?raw=true" alt="Drawing" width="320px" />
 [GpCollapsingToolbar](https://github.com/VyacheslavShmakin/GpCollapsingToolbar)  |  <img src="https://raw.githubusercontent.com/VyacheslavShmakin/GpCollapsingToolbar/master/sample/demo.gif" alt="Drawing" width="320px" />
+[CountdownView](https://github.com/iwgang/CountdownView)  |  <img src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif" alt="Drawing" width="320px" />
+[AndroidVuMeter](https://github.com/HugoGresse/AndroidVuMeter)  |  <img src="https://github.com/HugoGresse/AndroidVuMeter/raw/master/demo.gif" alt="Drawing" width="320px" />
 
 
 
