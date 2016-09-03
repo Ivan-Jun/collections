@@ -10,3 +10,9 @@ grammar_cjkRuby: true
   SectionedRecyclerViewAdapter  [项目地址](https://github.com/luizgrp/SectionedRecyclerViewAdapter)    |  一个支持列表分组（添加Header和Footer）的Adapter   |  <img src="https://raw.githubusercontent.com/luizgrp/SectionedRecyclerViewAdapter/master/art/sc1.png" alt="Drawing" width="320px" />   |
 
 
+|Tables         | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
