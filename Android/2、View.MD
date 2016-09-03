@@ -30,8 +30,6 @@
 [WheelPicker](https://github.com/AigeStudio/WheelPicker)  |  <img src="https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif" alt="Drawing" width="320px" />
 [StereoView](https://github.com/ImmortalZ/StereoView)  |  <img src="https://camo.githubusercontent.com/dc86ed6f966895ef1e343efc5cc7fd0469ec33c1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535343532303530" alt="Drawing" width="320px" />
 [PaperShredder](https://github.com/ldoublem/PaperShredder)  |  <img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/2.gif" alt="Drawing" width="320px" />
-[ScrollNumber](https://github.com/a-voyager/ScrollNumber)  |  <img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
-[ticker](https://github.com/robinhood/ticker)  |  <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
 [SeatTable](https://github.com/qifengdeqingchen/SeatTable)  |  <img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" alt="Drawing" width="320px" />
 [LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)  |  <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" alt="Drawing" width="320px" />
 [android_scratchoff](https://github.com/jackpocket/android_scratchoff)  |  <img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" alt="Drawing" width="320px" />
