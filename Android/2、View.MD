@@ -22,7 +22,6 @@
 [GoodView](https://github.com/venshine/GoodView)  |  <img src="https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif" alt="Drawing" width="320px" />
 [NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android)  |  <img src="https://github.com/Even201314/NumberMorphView4Android/raw/master/raw/master/screenshot/sample.gif" alt="Drawing" width="320px" />
 [BlurView](https://github.com/Dimezis/BlurView)  |  <img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" alt="Drawing" width="320px" />
-[AbilityChart](https://github.com/jiefly/AbilityChart)  |  <img src="https://github.com/jiefly/AbilityChart/raw/master/app/GIF_AbilityChart.gif" alt="Drawing" width="320px" />
 [StepView](https://github.com/baoyachi/StepView)  |  <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" alt="Drawing" width="320px" />
 [RatingView](https://github.com/Ornolfr/RatingView)  |  <img src="https://camo.githubusercontent.com/3db8e39d6d0754b4a2561564a8620dff1bd7870e/68747470733a2f2f676f6f676c6564726976652e636f6d2f686f73742f3042777a315f62396d413758596243314551323878614856776347632f726174696e6776696577322e6a7067" alt="Drawing" width="320px" />
 [HorizontalLayout](https://github.com/yuyinghao/HorizontalLayout)  |  <img src="https://github.com/yuyinghao/HorizontalLayout/raw/master/show.gif" alt="Drawing" width="320px" />
