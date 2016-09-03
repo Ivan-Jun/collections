@@ -29,7 +29,7 @@
 [CarouselView](https://github.com/binaryroot/CarouselView)  |  <img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" alt="Drawing" width="320px" />
 [WheelPicker](https://github.com/AigeStudio/WheelPicker)  |  <img src="https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif" alt="Drawing" width="320px" />
 [StereoView](https://github.com/ImmortalZ/StereoView)  |  <img src="https://camo.githubusercontent.com/dc86ed6f966895ef1e343efc5cc7fd0469ec33c1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535343532303530" alt="Drawing" width="320px" />
-[PaperShredder](https://github.com/ldoublem/PaperShredder)  |  <img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot1.gif" alt="Drawing" width="320px" />
+[PaperShredder](https://github.com/ldoublem/PaperShredder)  |  <img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/2.gif" alt="Drawing" width="320px" />
 [ScrollNumber](https://github.com/a-voyager/ScrollNumber)  |  <img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
 [ticker](https://github.com/robinhood/ticker)  |  <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
 [SeatTable](https://github.com/qifengdeqingchen/SeatTable)  |  <img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" alt="Drawing" width="320px" />
