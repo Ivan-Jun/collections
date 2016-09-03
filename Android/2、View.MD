@@ -24,3 +24,29 @@
 [NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android)  |  <img src="https://github.com/Even201314/NumberMorphView4Android/raw/master/raw/master/screenshot/sample.gif" alt="Drawing" width="320px" />
 [Lettrine](https://github.com/rpradal/Lettrine)  |  <img src="https://camo.githubusercontent.com/835a43a7ec909ea0dd6e2fdf8b250011036e1063/687474703a2f2f692e696d6775722e636f6d2f6976674831675a2e6a7067" alt="Drawing" width="320px" />
 [MarqueeView](https://github.com/sfsheng0322/MarqueeView)  |  <img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif" alt="Drawing" width="320px" />
+[BlurView](https://github.com/Dimezis/BlurView)  |  <img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" alt="Drawing" width="320px" />
+[AbilityChart](https://github.com/jiefly/AbilityChart)  |  <img src="https://github.com/jiefly/AbilityChart/raw/master/app/GIF_AbilityChart.gif" alt="Drawing" width="320px" />
+[StepView](https://github.com/baoyachi/StepView)  |  <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" alt="Drawing" width="320px" />
+[RatingView](https://github.com/Ornolfr/RatingView)  |  <img src="https://camo.githubusercontent.com/3db8e39d6d0754b4a2561564a8620dff1bd7870e/68747470733a2f2f676f6f676c6564726976652e636f6d2f686f73742f3042777a315f62396d413758596243314551323878614856776347632f726174696e6776696577322e6a7067" alt="Drawing" width="320px" />
+[HorizontalLayout](https://github.com/yuyinghao/HorizontalLayout)  |  <img src="https://github.com/yuyinghao/HorizontalLayout/raw/master/show.gif" alt="Drawing" width="320px" />
+[DashboardView](http://p.codekk.com/detail/Android/SuperKung/DashboardView)  |  <img src="https://github.com/SuperKung/DashboardView/raw/master/dashboard-view.gif" alt="Drawing" width="320px" />
+[CarouselView](https://github.com/binaryroot/CarouselView)  |  <img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" alt="Drawing" width="320px" />
+[WheelPicker](https://github.com/AigeStudio/WheelPicker)  |  <img src="https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif" alt="Drawing" width="320px" />
+[StereoView](https://github.com/ImmortalZ/StereoView)  |  <img src="https://camo.githubusercontent.com/dc86ed6f966895ef1e343efc5cc7fd0469ec33c1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535343532303530" alt="Drawing" width="320px" />
+[PaperShredder](https://github.com/ldoublem/PaperShredder)  |  <img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot1.gif" alt="Drawing" width="320px" />
+[ScrollNumber](https://github.com/a-voyager/ScrollNumber)  |  <img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" alt="Drawing" width="320px" />
+[ticker](https://github.com/robinhood/ticker)  |  <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
+[SeatTable](https://github.com/qifengdeqingchen/SeatTable)  |  <img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" alt="Drawing" width="320px" />
+[LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)  |  <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" alt="Drawing" width="320px" />
+[android_scratchoff](https://github.com/jackpocket/android_scratchoff)  |  <img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" alt="Drawing" width="320px" />
+[android-swipecards-view](https://github.com/Arjun-sna/android-swipecards-view)  |  <img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" alt="Drawing" width="320px" />
+[loaderviewlibrary](https://github.com/elye/loaderviewlibrary)  |  <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" alt="Drawing" width="320px" />
+[WavyLineView](https://github.com/andyxialm/WavyLineView)  |  <img src="https://github.com/andyxialm/WavyLineView/raw/master/art/wavyline.gif?raw=true" alt="Drawing" width="320px" />
+[GpCollapsingToolbar](https://github.com/VyacheslavShmakin/GpCollapsingToolbar)  |  <img src="https://raw.githubusercontent.com/VyacheslavShmakin/GpCollapsingToolbar/master/sample/demo.gif" alt="Drawing" width="320px" />
+
+
+
+
+
+
+
