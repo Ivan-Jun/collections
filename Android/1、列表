@@ -16,3 +16,7 @@ grammar_cjkRuby: true
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+======================
+Name | License | Demo
+--- | --- | ---
+
