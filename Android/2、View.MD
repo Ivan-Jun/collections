@@ -21,8 +21,6 @@
 [TagsEditText](https://github.com/mabbas007/TagsEditText)  |  <img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" alt="Drawing" width="320px" />
 [GoodView](https://github.com/venshine/GoodView)  |  <img src="https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif" alt="Drawing" width="320px" />
 [NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android)  |  <img src="https://github.com/Even201314/NumberMorphView4Android/raw/master/raw/master/screenshot/sample.gif" alt="Drawing" width="320px" />
-[Lettrine](https://github.com/rpradal/Lettrine)  |  <img src="https://camo.githubusercontent.com/835a43a7ec909ea0dd6e2fdf8b250011036e1063/687474703a2f2f692e696d6775722e636f6d2f6976674831675a2e6a7067" alt="Drawing" width="320px" />
-[MarqueeView](https://github.com/sfsheng0322/MarqueeView)  |  <img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif" alt="Drawing" width="320px" />
 [BlurView](https://github.com/Dimezis/BlurView)  |  <img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" alt="Drawing" width="320px" />
 [AbilityChart](https://github.com/jiefly/AbilityChart)  |  <img src="https://github.com/jiefly/AbilityChart/raw/master/app/GIF_AbilityChart.gif" alt="Drawing" width="320px" />
 [StepView](https://github.com/baoyachi/StepView)  |  <img src="https://github.com/baoyachi/StepView/raw/master/art/splash.png" alt="Drawing" width="320px" />
