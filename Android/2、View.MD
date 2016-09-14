@@ -41,6 +41,7 @@
 [DrawableRatingBar](https://github.com/AlexMofer/DrawableRatingBar)  |  <img src="https://github.com/AlexMofer/ProjectX/raw/master/drawableratingbar/screenshots.gif" alt="Drawing" width="320px" />
 [CalendarListView](https://github.com/Kelin-Hong/CalendarListView)  |  <img src="https://github.com/Kelin-Hong/CalendarListView/raw/master/art/CalendarViewDemo.gif" alt="Drawing" width="320px" />
 [ProgressRoundButton](https://github.com/cctanfujun/ProgressRoundButton)  |  <img src="https://camo.githubusercontent.com/656488830a0b0a78015772ddf21f853ee08d3045/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303036306c6d375467773165777a686e7a36313433673330363030616f6538322e676966" alt="Drawing" width="320px" />
+[ScrollingBackgroundView](https://github.com/noties/ScrollingBackgroundView)  |  <img src="https://raw.githubusercontent.com/noties/ScrollingBackgroundView/master/gifs/gif_pager.gif" alt="Drawing" width="320px" />
 
 
 
