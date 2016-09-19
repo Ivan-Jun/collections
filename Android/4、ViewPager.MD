@@ -26,6 +26,7 @@
 [MagicIndicator指示器](https://github.com/hackware1993/MagicIndicator)  |  <img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" alt="Drawing" width="320px" />
 [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)  |  <img src="https://github.com/huazhiyuan2008/RecyclerViewCardGallery/raw/master/art/RecyclerViewCardGallery_blur.gif" alt="Drawing" width="320px" />
 [SwipeCardsView](https://github.com/huxq17/SwipeCardsView)  |  <img src="https://github.com/huxq17/SwipeCardsView/raw/master/gif/pic1.gif" alt="Drawing" width="320px" />
+[ahoy-onboarding](https://github.com/codemybrainsout/ahoy-onboarding)  |  <img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" alt="Drawing" width="320px" />
 
 
 
