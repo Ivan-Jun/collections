@@ -27,6 +27,7 @@
 [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)  |  <img src="https://github.com/huazhiyuan2008/RecyclerViewCardGallery/raw/master/art/RecyclerViewCardGallery_blur.gif" alt="Drawing" width="320px" />
 [SwipeCardsView](https://github.com/huxq17/SwipeCardsView)  |  <img src="https://github.com/huxq17/SwipeCardsView/raw/master/gif/pic1.gif" alt="Drawing" width="320px" />
 [ahoy-onboarding](https://github.com/codemybrainsout/ahoy-onboarding)  |  <img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" alt="Drawing" width="320px" />
+[android-page-transition](https://github.com/xmuSistone/android-page-transition)  |  <img src="https://github.com/xmuSistone/android-page-transition/raw/master/capture1.jpg" alt="Drawing" width="320px" />
 
 
 
