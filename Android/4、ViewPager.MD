@@ -29,6 +29,7 @@
 [ahoy-onboarding](https://github.com/codemybrainsout/ahoy-onboarding)  |  <img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" alt="Drawing" width="320px" />
 [android-page-transition](https://github.com/xmuSistone/android-page-transition)  |  <img src="https://github.com/xmuSistone/android-page-transition/raw/master/capture1.jpg" alt="Drawing" width="320px" />
 [SpinMenu](https://github.com/Hitomis/SpinMenu)  |  <img src="https://github.com/Hitomis/SpinMenu/raw/master/preview/menu_slop.gif" alt="Drawing" width="320px" />
+[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)  |  <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" alt="Drawing" width="320px" />
 
 
 
