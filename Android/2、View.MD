@@ -45,6 +45,7 @@
 [android-calendar-view](https://github.com/myjoybar/android-calendar-view)  |  <img src="https://github.com/myjoybar/android-calendar-view/raw/master/screenshots/screenshot.gif" alt="Drawing" width="320px" />
 [FiftyShadesOf](https://github.com/florent37/FiftyShadesOf)  |  <img src="https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/fadein.gif" alt="Drawing" width="320px" />
 [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)  |  <img src="https://github.com/niniloveyou/BounceLoadingView/raw/master/bounceLoadingView.gif" alt="Drawing" width="320px" />
+[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)  |  <img src="https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg" alt="Drawing" width="320px" />
 
 
 
