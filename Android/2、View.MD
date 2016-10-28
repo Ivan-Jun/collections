@@ -46,6 +46,7 @@
 [FiftyShadesOf](https://github.com/florent37/FiftyShadesOf)  |  <img src="https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/fadein.gif" alt="Drawing" width="320px" />
 [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)  |  <img src="https://github.com/niniloveyou/BounceLoadingView/raw/master/bounceLoadingView.gif" alt="Drawing" width="320px" />
 [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)  |  <img src="https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg" alt="Drawing" width="320px" />
+[Material-SearchTransition](https://github.com/alexstyl/Material-SearchTransition)  |  <img src="https://github.com/alexstyl/Material-SearchTransition/raw/art/transition-to-search.gif?raw=true" alt="Drawing" width="320px" />
 
 
 
