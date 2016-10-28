@@ -30,6 +30,7 @@
 [android-page-transition](https://github.com/xmuSistone/android-page-transition)  |  <img src="https://github.com/xmuSistone/android-page-transition/raw/master/capture1.jpg" alt="Drawing" width="320px" />
 [SpinMenu](https://github.com/Hitomis/SpinMenu)  |  <img src="https://github.com/Hitomis/SpinMenu/raw/master/preview/menu_slop.gif" alt="Drawing" width="320px" />
 [material-intro-screen](https://github.com/TangoAgency/material-intro-screen)  |  <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" alt="Drawing" width="320px" />
+[BannerLayoutSimple](https://github.com/7449/BannerLayoutSimple)  |  <img src="https://camo.githubusercontent.com/65e39abf98c275ad9f28faac0e33fc4eaadde71e/687474703a2f2f692e696d6775722e636f6d2f555846464d44782e676966" alt="Drawing" width="320px" />
 
 
 
