@@ -51,6 +51,7 @@
 [RadarChart](https://github.com/qstumn/RadarChart)  |  支持自由定制外观、手势旋转的雷达图表 android radarchart<img src="https://github.com/qstumn/RadarView/raw/master/logo.png?raw=true" alt="Drawing" width="320px" />
 [noticeview](https://github.com/czy1121/noticeview)  |  滚动播放的公告控件<img src="https://github.com/czy1121/noticeview/raw/master/screenshot.png" alt="Drawing" width="320px" />
 [SpeedView](https://github.com/anastr/SpeedView)  |  Dynamic Speedometer for Android. amazing, powerful, and multi shape ⚡️<img src="https://raw.githubusercontent.com/anastr/SpeedView/master/images/SpeedView.gif" alt="Drawing" width="320px" />
+[FloatingView](https://github.com/UFreedom/FloatingView)  |  FloatingView can make the target view floating above the anchor view with cool animation<img src="https://github.com/UFreedom/FloatingView/raw/master/images/demo.gif" alt="Drawing" width="320px" />
 
 
 
