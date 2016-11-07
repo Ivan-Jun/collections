@@ -13,3 +13,4 @@
 [ticker](https://github.com/robinhood/ticker)  |  <img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" alt="Drawing" width="320px" />
 [LcLableView](https://github.com/80945540/LcLableView)  |  <img src="https://github.com/80945540/LcLableView/raw/master/image/image1.png" alt="Drawing" width="320px" />
 [badgebutton](https://github.com/czy1121/badgebutton)  |  <img src="https://github.com/czy1121/badgebutton/raw/master/screenshot.png" alt="Drawing" width="600px" />
+[TyperEditText](https://github.com/andyxialm/TyperEditText)  |  <img src="https://github.com/andyxialm/TyperEditText/raw/master/art/screenshot.gif?raw=true" alt="Drawing" width="320px" />
