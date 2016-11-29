@@ -54,6 +54,7 @@
 [FloatingView](https://github.com/UFreedom/FloatingView)  |  FloatingView can make the target view floating above the anchor view with cool animation<img src="https://github.com/UFreedom/FloatingView/raw/master/images/demo.gif" alt="Drawing" width="320px" />
 [XyzInfo](https://github.com/zhangxuyang321/XyzInfo)  |  自定义Switch 和 Ruler控件<img src="https://github.com/zhangxuyang321/XyzInfo/raw/master/ui/2.gif" alt="Drawing" width="320px" />
 [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha)  |  在 Android端app上，自定义View，仿一个斗鱼web端滑动验证码。<img src="https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966" alt="Drawing" width="320px" />
+[CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)  |  Custom ImageView to generate captcha image.<img src="https://github.com/jineshfrancs/CaptchaImageView/raw/master/screens/captcha_screen.gif" alt="Drawing" width="320px" />
 
 
 
