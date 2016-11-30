@@ -15,3 +15,4 @@
 [badgebutton](https://github.com/czy1121/badgebutton)  |  <img src="https://github.com/czy1121/badgebutton/raw/master/screenshot.png" alt="Drawing" width="600px" />
 [TyperEditText](https://github.com/andyxialm/TyperEditText)  |  <img src="https://github.com/andyxialm/TyperEditText/raw/master/art/screenshot.gif?raw=true" alt="Drawing" width="320px" />
 [ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView)  |  <img src="https://github.com/Chen-Sir/ExpandableTextView/raw/master/art/sample.gif" alt="Drawing" width="320px" />
+[NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  |  <img src="https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif" alt="Drawing" width="320px" />
