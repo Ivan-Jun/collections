@@ -16,3 +16,4 @@
 [TyperEditText](https://github.com/andyxialm/TyperEditText)  |  <img src="https://github.com/andyxialm/TyperEditText/raw/master/art/screenshot.gif?raw=true" alt="Drawing" width="320px" />
 [ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView)  |  <img src="https://github.com/Chen-Sir/ExpandableTextView/raw/master/art/sample.gif" alt="Drawing" width="320px" />
 [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  |  <img src="https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif" alt="Drawing" width="320px" />
+[MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  |  <img src="https://github.com/matrixxun/MaterialBadgeTextView/raw/master/MaterialBadgeTextView/art/screen_cap.png" alt="Drawing" width="320px" />
