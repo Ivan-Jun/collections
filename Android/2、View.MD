@@ -57,6 +57,7 @@
 [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)  |  Custom ImageView to generate captcha image.<img src="https://github.com/jineshfrancs/CaptchaImageView/raw/master/screens/captcha_screen.gif" alt="Drawing" width="320px" />
 [Cadar](https://github.com/memfis19/Cadar)  |  类似 Google 日历的实现，做的不错<img src="https://github.com/memfis19/Cadar/raw/master/art/interaction_anim.gif" alt="Drawing" width="320px" />
 [ScrollParallaxImageView](https://github.com/gjiazhe/ScrollParallaxImageView)  |  <img src="https://github.com/gjiazhe/ScrollParallaxImageView/raw/master/screenshot/ss1.gif" alt="Drawing" width="320px" />
+[ZxingScanView](https://github.com/AlexMofer/ZxingScanView)  |  <img src="https://raw.githubusercontent.com/AlexMofer/ProjectX/master/zxingscanview/screenshots.gif" alt="Drawing" width="320px" />
 
 
 
