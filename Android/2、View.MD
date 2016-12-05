@@ -56,6 +56,7 @@
 [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha)  |  在 Android端app上，自定义View，仿一个斗鱼web端滑动验证码。<img src="https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966" alt="Drawing" width="320px" />
 [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)  |  Custom ImageView to generate captcha image.<img src="https://github.com/jineshfrancs/CaptchaImageView/raw/master/screens/captcha_screen.gif" alt="Drawing" width="320px" />
 [Cadar](https://github.com/memfis19/Cadar)  |  类似 Google 日历的实现，做的不错<img src="https://github.com/memfis19/Cadar/raw/master/art/interaction_anim.gif" alt="Drawing" width="320px" />
+[ScrollParallaxImageView](https://github.com/gjiazhe/ScrollParallaxImageView)  |  <img src="https://github.com/gjiazhe/ScrollParallaxImageView/raw/master/screenshot/ss1.gif" alt="Drawing" width="320px" />
 
 
 
