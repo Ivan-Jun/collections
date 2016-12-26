@@ -17,3 +17,4 @@
 [ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView)  |  <img src="https://github.com/Chen-Sir/ExpandableTextView/raw/master/art/sample.gif" alt="Drawing" width="320px" />
 [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  |  <img src="https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif" alt="Drawing" width="320px" />
 [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  |  <img src="https://github.com/matrixxun/MaterialBadgeTextView/raw/master/MaterialBadgeTextView/art/screen_cap.png" alt="Drawing" width="320px" />
+[AvatarLabelView](https://github.com/yanbober/AvatarLabelView)  |  <img src="https://github.com/yanbober/AvatarLabelView/raw/master/.picture/demo.png" alt="Drawing" width="320px" />
