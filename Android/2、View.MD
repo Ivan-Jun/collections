@@ -59,6 +59,7 @@
 [ScrollParallaxImageView](https://github.com/gjiazhe/ScrollParallaxImageView)  |  <img src="https://github.com/gjiazhe/ScrollParallaxImageView/raw/master/screenshot/ss1.gif" alt="Drawing" width="320px" />
 [ZxingScanView](https://github.com/AlexMofer/ZxingScanView)  |  <img src="https://raw.githubusercontent.com/AlexMofer/ProjectX/master/zxingscanview/screenshots.gif" alt="Drawing" width="320px" />
 [PickTime](https://github.com/codbking/PickTime)  |  <img src="https://github.com/codbking/PickTime/raw/master/image/dd.gif" alt="Drawing" width="320px" />
+[Vibes](https://github.com/hugeinc/Vibes)  |  <img src="https://github.com/hugeinc/Vibes/raw/master/art.gif?raw=true" alt="Drawing" width="320px" />
 
 
 
