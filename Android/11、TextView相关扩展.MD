@@ -18,3 +18,4 @@
 [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  |  <img src="https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif" alt="Drawing" width="320px" />
 [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  |  <img src="https://github.com/matrixxun/MaterialBadgeTextView/raw/master/MaterialBadgeTextView/art/screen_cap.png" alt="Drawing" width="320px" />
 [AvatarLabelView](https://github.com/yanbober/AvatarLabelView)  |  <img src="https://github.com/yanbober/AvatarLabelView/raw/master/.picture/demo.png" alt="Drawing" width="320px" />
+[html-builder](https://github.com/jrummyapps/html-builder)  |  <img src="https://github.com/jrummyapps/html-builder/raw/master/art/screenshot.png" alt="Drawing" width="320px" />
