@@ -19,3 +19,4 @@
 [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  |  <img src="https://github.com/matrixxun/MaterialBadgeTextView/raw/master/MaterialBadgeTextView/art/screen_cap.png" alt="Drawing" width="320px" />
 [AvatarLabelView](https://github.com/yanbober/AvatarLabelView)  |  <img src="https://github.com/yanbober/AvatarLabelView/raw/master/.picture/demo.png" alt="Drawing" width="320px" />
 [html-builder](https://github.com/jrummyapps/html-builder)  |  <img src="https://github.com/jrummyapps/html-builder/raw/master/art/screenshot.png" alt="Drawing" width="320px" />
+[LyricViewDemo](https://github.com/zhengken/LyricViewDemo)  |  <img src="https://github.com/zhengken/LyricViewDemo/raw/master/screenshot/lyricview.png" alt="Drawing" width="320px" />
