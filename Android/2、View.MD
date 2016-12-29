@@ -66,6 +66,11 @@
 :---: | --- 
 [CalendarExaple](https://github.com/codbking/CalendarExaple)  |  <img src="https://github.com/codbking/CalendarExaple/raw/master/image/bbbb.gif" alt="Drawing" width="320px" />  
 
+### 图片
+名称  | 介绍展示
+:---: | --- 
+[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)  |  <img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" alt="Drawing" width="320px" />  
+
 
 
 
