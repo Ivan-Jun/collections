@@ -71,6 +71,7 @@
 名称  | 介绍展示
 :---: | --- 
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)  |  <img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" alt="Drawing" width="320px" />  
+[AnchorImageView](https://github.com/jcodeing/AnchorImageView)  |  <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif" alt="Drawing" width="320px" />
 
 
 
