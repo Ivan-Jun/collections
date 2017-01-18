@@ -78,6 +78,11 @@
 :---: | --- 
 [CircleProgressMenu](https://github.com/stewForAni/CircleProgressMenu)  |  <img src="https://github.com/stewForAni/CircleMenuLayout/raw/master/images/WechatIMG10.png" alt="Drawing" width="320px" /> 
 
+### 图表
+名称  | 介绍展示
+:---: | --- 
+[excelPanel](https://github.com/zhouchaoyuan/excelPanel)  |  <img src="https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif" alt="Drawing" width="320px" /> 
+
 
 
 
