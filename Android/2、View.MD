@@ -73,6 +73,11 @@
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)  |  <img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" alt="Drawing" width="320px" />  
 [AnchorImageView](https://github.com/jcodeing/AnchorImageView)  |  <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif" alt="Drawing" width="320px" />
 
+### 进度
+名称  | 介绍展示
+:---: | --- 
+[CircleProgressMenu](https://github.com/stewForAni/CircleProgressMenu)  |  <img src="https://github.com/stewForAni/CircleMenuLayout/raw/master/images/WechatIMG10.png" alt="Drawing" width="320px" /> 
+
 
 
 
