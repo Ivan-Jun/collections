@@ -61,6 +61,7 @@
 [PickTime](https://github.com/codbking/PickTime)  |  <img src="https://github.com/codbking/PickTime/raw/master/image/dd.gif" alt="Drawing" width="320px" />
 [Vibes](https://github.com/hugeinc/Vibes)  |  <img src="https://github.com/hugeinc/Vibes/raw/master/art.gif?raw=true" alt="Drawing" width="150px" />
 [RuleView](https://github.com/panacena/RuleView)  |  <img src="https://github.com/panacena/RuleView/raw/master/7c0d4213-1242-496b-9898-0d04d14f3097.gif" alt="Drawing" width="150px" />
+[elasticity](https://github.com/XanderWang/elasticity)  |  <img src="https://github.com/XanderWang/elasticity/raw/master/demo.gif" alt="Drawing" width="150px" />
 
 ### 时间日期
 名称  | 介绍展示
