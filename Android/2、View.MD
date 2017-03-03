@@ -79,6 +79,7 @@
 :---: | --- 
 [CircleProgressMenu](https://github.com/stewForAni/CircleProgressMenu)  |  <img src="https://github.com/stewForAni/CircleMenuLayout/raw/master/images/WechatIMG10.png" alt="Drawing" width="320px" /> 
 [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)  |  <img src="https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif" alt="Drawing" width="320px" /> 
+[CProgressButton](https://github.com/jiang111/CProgressButton)  |  <img src="https://raw.githubusercontent.com/jiang111/CProgressButton/master/art/art2.gif" alt="Drawing" width="320px" /> 
 
 ### 图表
 名称  | 介绍展示
