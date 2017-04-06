@@ -76,6 +76,11 @@
 [AnchorImageView](https://github.com/jcodeing/AnchorImageView)  |  <img src="https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif" alt="Drawing" width="320px" />
 [ShadowImageView](https://github.com/yingLanNull/ShadowImageView)  |  <img src="https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png" alt="Drawing" width="620px" />
 
+### 切换
+名称  | 介绍展示
+:---: | --- 
+[IconSwitch](https://github.com/polyak01/IconSwitch)  |  <img src="https://github.com/polyak01/IconSwitch/raw/master/data/3J8gYHy.gif" alt="Drawing" width="320px" />  
+
 ### 进度
 名称  | 介绍展示
 :---: | --- 
